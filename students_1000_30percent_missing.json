@@ -1,0 +1,9002 @@
+[
+  {
+    "id": 1,
+    "age": 19,
+    "study_hours": 0.7,
+    "attendance": 60,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 2,
+    "age": null,
+    "study_hours": null,
+    "attendance": 79,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.37,
+    "passed": false
+  },
+  {
+    "id": 3,
+    "age": 27,
+    "study_hours": 0.7,
+    "attendance": 50,
+    "sleep_hours": 7.6,
+    "previous_grade": 4.81,
+    "passed": false
+  },
+  {
+    "id": 4,
+    "age": 25,
+    "study_hours": 4.9,
+    "attendance": 25,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.64,
+    "passed": false
+  },
+  {
+    "id": 5,
+    "age": 22,
+    "study_hours": 1.7,
+    "attendance": 68,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.52,
+    "passed": false
+  },
+  {
+    "id": 6,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 7.6,
+    "previous_grade": 4.14,
+    "passed": true
+  },
+  {
+    "id": 7,
+    "age": 24,
+    "study_hours": 1.1,
+    "attendance": 62,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.47,
+    "passed": true
+  },
+  {
+    "id": 8,
+    "age": 27,
+    "study_hours": 1.9,
+    "attendance": 33,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.91,
+    "passed": false
+  },
+  {
+    "id": 9,
+    "age": 19,
+    "study_hours": 6.9,
+    "attendance": 37,
+    "sleep_hours": 5.9,
+    "previous_grade": 3.81,
+    "passed": true
+  },
+  {
+    "id": 10,
+    "age": 20,
+    "study_hours": 3.3,
+    "attendance": 51,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.81,
+    "passed": true
+  },
+  {
+    "id": 11,
+    "age": 19,
+    "study_hours": 5.1,
+    "attendance": 46,
+    "sleep_hours": 6.7,
+    "previous_grade": 2.98,
+    "passed": false
+  },
+  {
+    "id": 12,
+    "age": 22,
+    "study_hours": 7.9,
+    "attendance": 96,
+    "sleep_hours": 5.1,
+    "previous_grade": 3.3,
+    "passed": true
+  },
+  {
+    "id": 13,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.6,
+    "passed": false
+  },
+  {
+    "id": 14,
+    "age": 27,
+    "study_hours": 7.1,
+    "attendance": 65,
+    "sleep_hours": 5.1,
+    "previous_grade": 4.0,
+    "passed": true
+  },
+  {
+    "id": 15,
+    "age": null,
+    "study_hours": null,
+    "attendance": 42,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.25,
+    "passed": false
+  },
+  {
+    "id": 16,
+    "age": 27,
+    "study_hours": 3.7,
+    "attendance": 99,
+    "sleep_hours": 6.0,
+    "previous_grade": 2.88,
+    "passed": true
+  },
+  {
+    "id": 17,
+    "age": null,
+    "study_hours": null,
+    "attendance": 31,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 18,
+    "age": 24,
+    "study_hours": 5.0,
+    "attendance": 74,
+    "sleep_hours": 5.9,
+    "previous_grade": 5.98,
+    "passed": true
+  },
+  {
+    "id": 19,
+    "age": 26,
+    "study_hours": 7.0,
+    "attendance": 26,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.46,
+    "passed": true
+  },
+  {
+    "id": 20,
+    "age": 22,
+    "study_hours": 6.3,
+    "attendance": 68,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.74,
+    "passed": true
+  },
+  {
+    "id": 21,
+    "age": 22,
+    "study_hours": 7.8,
+    "attendance": 47,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.43,
+    "passed": true
+  },
+  {
+    "id": 22,
+    "age": 26,
+    "study_hours": 5.1,
+    "attendance": 44,
+    "sleep_hours": 5.9,
+    "previous_grade": 2.65,
+    "passed": true
+  },
+  {
+    "id": 23,
+    "age": 26,
+    "study_hours": 7.4,
+    "attendance": 66,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.45,
+    "passed": true
+  },
+  {
+    "id": 24,
+    "age": null,
+    "study_hours": null,
+    "attendance": 55,
+    "sleep_hours": 8.4,
+    "previous_grade": 5.79,
+    "passed": false
+  },
+  {
+    "id": 25,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.51,
+    "passed": true
+  },
+  {
+    "id": 26,
+    "age": 26,
+    "study_hours": 1.7,
+    "attendance": 92,
+    "sleep_hours": 8.4,
+    "previous_grade": 3.69,
+    "passed": false
+  },
+  {
+    "id": 27,
+    "age": 26,
+    "study_hours": 6.2,
+    "attendance": 50,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.6,
+    "passed": true
+  },
+  {
+    "id": 28,
+    "age": 23,
+    "study_hours": 3.8,
+    "attendance": 91,
+    "sleep_hours": 6.3,
+    "previous_grade": 2.99,
+    "passed": false
+  },
+  {
+    "id": 29,
+    "age": 18,
+    "study_hours": 4.9,
+    "attendance": 54,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.03,
+    "passed": false
+  },
+  {
+    "id": 30,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.28,
+    "passed": false
+  },
+  {
+    "id": 31,
+    "age": 25,
+    "study_hours": 2.1,
+    "attendance": 41,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.53,
+    "passed": false
+  },
+  {
+    "id": 32,
+    "age": 21,
+    "study_hours": 6.4,
+    "attendance": 77,
+    "sleep_hours": 5.0,
+    "previous_grade": 2.39,
+    "passed": true
+  },
+  {
+    "id": 33,
+    "age": null,
+    "study_hours": null,
+    "attendance": 31,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.94,
+    "passed": false
+  },
+  {
+    "id": 34,
+    "age": null,
+    "study_hours": null,
+    "attendance": 38,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.76,
+    "passed": false
+  },
+  {
+    "id": 35,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.69,
+    "passed": true
+  },
+  {
+    "id": 36,
+    "age": 26,
+    "study_hours": 1.2,
+    "attendance": 94,
+    "sleep_hours": 8.2,
+    "previous_grade": 5.88,
+    "passed": true
+  },
+  {
+    "id": 37,
+    "age": 21,
+    "study_hours": 1.7,
+    "attendance": 87,
+    "sleep_hours": 6.4,
+    "previous_grade": 5.46,
+    "passed": true
+  },
+  {
+    "id": 38,
+    "age": 20,
+    "study_hours": 3.3,
+    "attendance": 74,
+    "sleep_hours": 5.3,
+    "previous_grade": 5.14,
+    "passed": true
+  },
+  {
+    "id": 39,
+    "age": 24,
+    "study_hours": 5.7,
+    "attendance": 96,
+    "sleep_hours": 7.3,
+    "previous_grade": 3.95,
+    "passed": true
+  },
+  {
+    "id": 40,
+    "age": 21,
+    "study_hours": 7.8,
+    "attendance": 99,
+    "sleep_hours": 7.7,
+    "previous_grade": 2.24,
+    "passed": true
+  },
+  {
+    "id": 41,
+    "age": 18,
+    "study_hours": 4.9,
+    "attendance": 89,
+    "sleep_hours": 8.6,
+    "previous_grade": 4.12,
+    "passed": false
+  },
+  {
+    "id": 42,
+    "age": null,
+    "study_hours": null,
+    "attendance": 48,
+    "sleep_hours": 4.3,
+    "previous_grade": 2.27,
+    "passed": false
+  },
+  {
+    "id": 43,
+    "age": 24,
+    "study_hours": 1.4,
+    "attendance": 97,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.38,
+    "passed": true
+  },
+  {
+    "id": 44,
+    "age": 24,
+    "study_hours": 5.4,
+    "attendance": 97,
+    "sleep_hours": 6.6,
+    "previous_grade": 5.74,
+    "passed": true
+  },
+  {
+    "id": 45,
+    "age": null,
+    "study_hours": null,
+    "attendance": 75,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.58,
+    "passed": false
+  },
+  {
+    "id": 46,
+    "age": null,
+    "study_hours": null,
+    "attendance": 97,
+    "sleep_hours": 9.0,
+    "previous_grade": 2.29,
+    "passed": false
+  },
+  {
+    "id": 47,
+    "age": 22,
+    "study_hours": 1.5,
+    "attendance": 69,
+    "sleep_hours": 8.4,
+    "previous_grade": 5.52,
+    "passed": false
+  },
+  {
+    "id": 48,
+    "age": 20,
+    "study_hours": 3.8,
+    "attendance": 94,
+    "sleep_hours": 7.5,
+    "previous_grade": 4.45,
+    "passed": true
+  },
+  {
+    "id": 49,
+    "age": 26,
+    "study_hours": 0.6,
+    "attendance": 95,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.65,
+    "passed": true
+  },
+  {
+    "id": 50,
+    "age": 20,
+    "study_hours": 2.5,
+    "attendance": 38,
+    "sleep_hours": 7.7,
+    "previous_grade": 2.62,
+    "passed": false
+  },
+  {
+    "id": 51,
+    "age": 21,
+    "study_hours": 5.9,
+    "attendance": 51,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.41,
+    "passed": true
+  },
+  {
+    "id": 52,
+    "age": 22,
+    "study_hours": 7.3,
+    "attendance": 31,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.69,
+    "passed": false
+  },
+  {
+    "id": 53,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.05,
+    "passed": false
+  },
+  {
+    "id": 54,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 4.0,
+    "previous_grade": 2.3,
+    "passed": true
+  },
+  {
+    "id": 55,
+    "age": 20,
+    "study_hours": 4.6,
+    "attendance": 72,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.59,
+    "passed": false
+  },
+  {
+    "id": 56,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.84,
+    "passed": false
+  },
+  {
+    "id": 57,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 8.4,
+    "previous_grade": 3.63,
+    "passed": true
+  },
+  {
+    "id": 58,
+    "age": 20,
+    "study_hours": 7.4,
+    "attendance": 55,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.9,
+    "passed": true
+  },
+  {
+    "id": 59,
+    "age": 24,
+    "study_hours": 0.7,
+    "attendance": 67,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.65,
+    "passed": false
+  },
+  {
+    "id": 60,
+    "age": 21,
+    "study_hours": 2.5,
+    "attendance": 38,
+    "sleep_hours": 5.9,
+    "previous_grade": 2.15,
+    "passed": false
+  },
+  {
+    "id": 61,
+    "age": 21,
+    "study_hours": 6.6,
+    "attendance": 83,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.28,
+    "passed": true
+  },
+  {
+    "id": 62,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 6.0,
+    "previous_grade": 3.11,
+    "passed": false
+  },
+  {
+    "id": 63,
+    "age": 22,
+    "study_hours": 3.1,
+    "attendance": 90,
+    "sleep_hours": 6.0,
+    "previous_grade": 5.92,
+    "passed": true
+  },
+  {
+    "id": 64,
+    "age": 18,
+    "study_hours": 1.4,
+    "attendance": 58,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.85,
+    "passed": false
+  },
+  {
+    "id": 65,
+    "age": null,
+    "study_hours": null,
+    "attendance": 69,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.25,
+    "passed": true
+  },
+  {
+    "id": 66,
+    "age": 26,
+    "study_hours": 1.4,
+    "attendance": 98,
+    "sleep_hours": 5.0,
+    "previous_grade": 2.18,
+    "passed": false
+  },
+  {
+    "id": 67,
+    "age": 26,
+    "study_hours": 7.4,
+    "attendance": 93,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.76,
+    "passed": true
+  },
+  {
+    "id": 68,
+    "age": null,
+    "study_hours": null,
+    "attendance": 33,
+    "sleep_hours": 8.7,
+    "previous_grade": 5.68,
+    "passed": true
+  },
+  {
+    "id": 69,
+    "age": null,
+    "study_hours": null,
+    "attendance": 63,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.67,
+    "passed": true
+  },
+  {
+    "id": 70,
+    "age": 22,
+    "study_hours": 4.7,
+    "attendance": 49,
+    "sleep_hours": 6.1,
+    "previous_grade": 5.76,
+    "passed": true
+  },
+  {
+    "id": 71,
+    "age": 20,
+    "study_hours": 5.1,
+    "attendance": 63,
+    "sleep_hours": 6.0,
+    "previous_grade": 5.33,
+    "passed": true
+  },
+  {
+    "id": 72,
+    "age": 21,
+    "study_hours": 3.7,
+    "attendance": 99,
+    "sleep_hours": 7.0,
+    "previous_grade": 3.29,
+    "passed": true
+  },
+  {
+    "id": 73,
+    "age": null,
+    "study_hours": null,
+    "attendance": 46,
+    "sleep_hours": 7.3,
+    "previous_grade": 3.14,
+    "passed": false
+  },
+  {
+    "id": 74,
+    "age": 27,
+    "study_hours": 3.0,
+    "attendance": 55,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.9,
+    "passed": false
+  },
+  {
+    "id": 75,
+    "age": 18,
+    "study_hours": 0.8,
+    "attendance": 85,
+    "sleep_hours": 7.1,
+    "previous_grade": 5.07,
+    "passed": false
+  },
+  {
+    "id": 76,
+    "age": null,
+    "study_hours": null,
+    "attendance": 74,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.98,
+    "passed": false
+  },
+  {
+    "id": 77,
+    "age": 18,
+    "study_hours": 7.2,
+    "attendance": 38,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.88,
+    "passed": true
+  },
+  {
+    "id": 78,
+    "age": 26,
+    "study_hours": 4.0,
+    "attendance": 96,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.39,
+    "passed": true
+  },
+  {
+    "id": 79,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 7.0,
+    "previous_grade": 5.8,
+    "passed": true
+  },
+  {
+    "id": 80,
+    "age": 27,
+    "study_hours": 6.6,
+    "attendance": 89,
+    "sleep_hours": 6.1,
+    "previous_grade": 5.63,
+    "passed": true
+  },
+  {
+    "id": 81,
+    "age": 20,
+    "study_hours": 6.1,
+    "attendance": 85,
+    "sleep_hours": 6.3,
+    "previous_grade": 5.01,
+    "passed": true
+  },
+  {
+    "id": 82,
+    "age": 22,
+    "study_hours": 6.2,
+    "attendance": 91,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.96,
+    "passed": true
+  },
+  {
+    "id": 83,
+    "age": null,
+    "study_hours": null,
+    "attendance": 67,
+    "sleep_hours": 5.6,
+    "previous_grade": 4.16,
+    "passed": false
+  },
+  {
+    "id": 84,
+    "age": 21,
+    "study_hours": 3.4,
+    "attendance": 44,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.26,
+    "passed": false
+  },
+  {
+    "id": 85,
+    "age": 26,
+    "study_hours": 4.0,
+    "attendance": 32,
+    "sleep_hours": 5.0,
+    "previous_grade": 3.68,
+    "passed": true
+  },
+  {
+    "id": 86,
+    "age": null,
+    "study_hours": null,
+    "attendance": 27,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.06,
+    "passed": true
+  },
+  {
+    "id": 87,
+    "age": 18,
+    "study_hours": 7.6,
+    "attendance": 63,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.41,
+    "passed": true
+  },
+  {
+    "id": 88,
+    "age": 24,
+    "study_hours": 4.5,
+    "attendance": 94,
+    "sleep_hours": 8.0,
+    "previous_grade": 5.59,
+    "passed": true
+  },
+  {
+    "id": 89,
+    "age": null,
+    "study_hours": null,
+    "attendance": 28,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.68,
+    "passed": true
+  },
+  {
+    "id": 90,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 8.9,
+    "previous_grade": 4.14,
+    "passed": true
+  },
+  {
+    "id": 91,
+    "age": 27,
+    "study_hours": 4.7,
+    "attendance": 28,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.71,
+    "passed": true
+  },
+  {
+    "id": 92,
+    "age": 20,
+    "study_hours": 0.9,
+    "attendance": 73,
+    "sleep_hours": 5.6,
+    "previous_grade": 3.82,
+    "passed": false
+  },
+  {
+    "id": 93,
+    "age": null,
+    "study_hours": null,
+    "attendance": 78,
+    "sleep_hours": 5.3,
+    "previous_grade": 2.33,
+    "passed": false
+  },
+  {
+    "id": 94,
+    "age": 26,
+    "study_hours": 0.9,
+    "attendance": 69,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.27,
+    "passed": false
+  },
+  {
+    "id": 95,
+    "age": 18,
+    "study_hours": 6.2,
+    "attendance": 56,
+    "sleep_hours": 5.0,
+    "previous_grade": 2.08,
+    "passed": false
+  },
+  {
+    "id": 96,
+    "age": 20,
+    "study_hours": 4.1,
+    "attendance": 39,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.87,
+    "passed": false
+  },
+  {
+    "id": 97,
+    "age": 23,
+    "study_hours": 1.8,
+    "attendance": 39,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.66,
+    "passed": false
+  },
+  {
+    "id": 98,
+    "age": 27,
+    "study_hours": 0.7,
+    "attendance": 64,
+    "sleep_hours": 6.9,
+    "previous_grade": 5.63,
+    "passed": false
+  },
+  {
+    "id": 99,
+    "age": 21,
+    "study_hours": 1.1,
+    "attendance": 56,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.09,
+    "passed": true
+  },
+  {
+    "id": 100,
+    "age": 27,
+    "study_hours": 6.5,
+    "attendance": 97,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.39,
+    "passed": true
+  },
+  {
+    "id": 101,
+    "age": null,
+    "study_hours": null,
+    "attendance": 68,
+    "sleep_hours": 4.1,
+    "previous_grade": 3.68,
+    "passed": false
+  },
+  {
+    "id": 102,
+    "age": 24,
+    "study_hours": 7.7,
+    "attendance": 83,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.74,
+    "passed": true
+  },
+  {
+    "id": 103,
+    "age": 22,
+    "study_hours": 5.1,
+    "attendance": 93,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.86,
+    "passed": true
+  },
+  {
+    "id": 104,
+    "age": 27,
+    "study_hours": 2.5,
+    "attendance": 56,
+    "sleep_hours": 8.2,
+    "previous_grade": 2.35,
+    "passed": false
+  },
+  {
+    "id": 105,
+    "age": 21,
+    "study_hours": 6.1,
+    "attendance": 97,
+    "sleep_hours": 7.1,
+    "previous_grade": 3.52,
+    "passed": true
+  },
+  {
+    "id": 106,
+    "age": 23,
+    "study_hours": 1.9,
+    "attendance": 52,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.03,
+    "passed": false
+  },
+  {
+    "id": 107,
+    "age": null,
+    "study_hours": null,
+    "attendance": 60,
+    "sleep_hours": 6.8,
+    "previous_grade": 4.07,
+    "passed": false
+  },
+  {
+    "id": 108,
+    "age": 21,
+    "study_hours": 5.9,
+    "attendance": 87,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.96,
+    "passed": true
+  },
+  {
+    "id": 109,
+    "age": 25,
+    "study_hours": 3.9,
+    "attendance": 27,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.89,
+    "passed": false
+  },
+  {
+    "id": 110,
+    "age": 22,
+    "study_hours": 5.5,
+    "attendance": 72,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.12,
+    "passed": true
+  },
+  {
+    "id": 111,
+    "age": 26,
+    "study_hours": 3.0,
+    "attendance": 83,
+    "sleep_hours": 5.4,
+    "previous_grade": 3.01,
+    "passed": false
+  },
+  {
+    "id": 112,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.76,
+    "passed": false
+  },
+  {
+    "id": 113,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 8.9,
+    "previous_grade": 4.1,
+    "passed": false
+  },
+  {
+    "id": 114,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.72,
+    "passed": false
+  },
+  {
+    "id": 115,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 8.9,
+    "previous_grade": 4.21,
+    "passed": false
+  },
+  {
+    "id": 116,
+    "age": 20,
+    "study_hours": 5.3,
+    "attendance": 87,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.05,
+    "passed": false
+  },
+  {
+    "id": 117,
+    "age": null,
+    "study_hours": null,
+    "attendance": 48,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.01,
+    "passed": true
+  },
+  {
+    "id": 118,
+    "age": 19,
+    "study_hours": 6.7,
+    "attendance": 76,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.31,
+    "passed": true
+  },
+  {
+    "id": 119,
+    "age": null,
+    "study_hours": null,
+    "attendance": 97,
+    "sleep_hours": 8.7,
+    "previous_grade": 2.34,
+    "passed": false
+  },
+  {
+    "id": 120,
+    "age": 26,
+    "study_hours": 6.2,
+    "attendance": 53,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.52,
+    "passed": true
+  },
+  {
+    "id": 121,
+    "age": 22,
+    "study_hours": 7.0,
+    "attendance": 79,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.48,
+    "passed": true
+  },
+  {
+    "id": 122,
+    "age": 19,
+    "study_hours": 7.6,
+    "attendance": 51,
+    "sleep_hours": 7.1,
+    "previous_grade": 3.06,
+    "passed": false
+  },
+  {
+    "id": 123,
+    "age": 21,
+    "study_hours": 1.8,
+    "attendance": 34,
+    "sleep_hours": 4.8,
+    "previous_grade": 3.63,
+    "passed": false
+  },
+  {
+    "id": 124,
+    "age": 25,
+    "study_hours": 2.7,
+    "attendance": 54,
+    "sleep_hours": 5.4,
+    "previous_grade": 3.13,
+    "passed": true
+  },
+  {
+    "id": 125,
+    "age": 19,
+    "study_hours": 5.7,
+    "attendance": 58,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.5,
+    "passed": true
+  },
+  {
+    "id": 126,
+    "age": null,
+    "study_hours": null,
+    "attendance": 94,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.6,
+    "passed": false
+  },
+  {
+    "id": 127,
+    "age": 20,
+    "study_hours": 1.0,
+    "attendance": 46,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.38,
+    "passed": false
+  },
+  {
+    "id": 128,
+    "age": 22,
+    "study_hours": 3.8,
+    "attendance": 84,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.8,
+    "passed": true
+  },
+  {
+    "id": 129,
+    "age": 26,
+    "study_hours": 4.5,
+    "attendance": 81,
+    "sleep_hours": 4.4,
+    "previous_grade": 2.16,
+    "passed": false
+  },
+  {
+    "id": 130,
+    "age": 23,
+    "study_hours": 5.0,
+    "attendance": 28,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.85,
+    "passed": true
+  },
+  {
+    "id": 131,
+    "age": null,
+    "study_hours": null,
+    "attendance": 27,
+    "sleep_hours": 9.0,
+    "previous_grade": 4.69,
+    "passed": false
+  },
+  {
+    "id": 132,
+    "age": 18,
+    "study_hours": 6.2,
+    "attendance": 47,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.61,
+    "passed": true
+  },
+  {
+    "id": 133,
+    "age": 20,
+    "study_hours": 8.0,
+    "attendance": 80,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.97,
+    "passed": true
+  },
+  {
+    "id": 134,
+    "age": 23,
+    "study_hours": 3.6,
+    "attendance": 66,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.43,
+    "passed": true
+  },
+  {
+    "id": 135,
+    "age": 25,
+    "study_hours": 2.7,
+    "attendance": 76,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.2,
+    "passed": false
+  },
+  {
+    "id": 136,
+    "age": null,
+    "study_hours": null,
+    "attendance": 39,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.62,
+    "passed": false
+  },
+  {
+    "id": 137,
+    "age": 18,
+    "study_hours": 5.4,
+    "attendance": 94,
+    "sleep_hours": 6.3,
+    "previous_grade": 2.22,
+    "passed": true
+  },
+  {
+    "id": 138,
+    "age": 27,
+    "study_hours": 6.2,
+    "attendance": 81,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.81,
+    "passed": true
+  },
+  {
+    "id": 139,
+    "age": 22,
+    "study_hours": 3.8,
+    "attendance": 87,
+    "sleep_hours": 4.6,
+    "previous_grade": 5.89,
+    "passed": true
+  },
+  {
+    "id": 140,
+    "age": null,
+    "study_hours": null,
+    "attendance": 64,
+    "sleep_hours": 6.8,
+    "previous_grade": 4.21,
+    "passed": false
+  },
+  {
+    "id": 141,
+    "age": 19,
+    "study_hours": 4.0,
+    "attendance": 40,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.62,
+    "passed": true
+  },
+  {
+    "id": 142,
+    "age": null,
+    "study_hours": null,
+    "attendance": 59,
+    "sleep_hours": 6.1,
+    "previous_grade": 3.93,
+    "passed": false
+  },
+  {
+    "id": 143,
+    "age": 25,
+    "study_hours": 4.6,
+    "attendance": 74,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.4,
+    "passed": true
+  },
+  {
+    "id": 144,
+    "age": 20,
+    "study_hours": 7.0,
+    "attendance": 60,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.42,
+    "passed": true
+  },
+  {
+    "id": 145,
+    "age": 26,
+    "study_hours": 2.5,
+    "attendance": 25,
+    "sleep_hours": 5.4,
+    "previous_grade": 3.19,
+    "passed": false
+  },
+  {
+    "id": 146,
+    "age": 25,
+    "study_hours": 7.0,
+    "attendance": 82,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.38,
+    "passed": true
+  },
+  {
+    "id": 147,
+    "age": 26,
+    "study_hours": 3.3,
+    "attendance": 66,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.92,
+    "passed": false
+  },
+  {
+    "id": 148,
+    "age": 24,
+    "study_hours": 2.3,
+    "attendance": 77,
+    "sleep_hours": 4.2,
+    "previous_grade": 4.98,
+    "passed": true
+  },
+  {
+    "id": 149,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.15,
+    "passed": false
+  },
+  {
+    "id": 150,
+    "age": 27,
+    "study_hours": 3.0,
+    "attendance": 37,
+    "sleep_hours": 8.4,
+    "previous_grade": 3.76,
+    "passed": false
+  },
+  {
+    "id": 151,
+    "age": 25,
+    "study_hours": 0.6,
+    "attendance": 43,
+    "sleep_hours": 6.0,
+    "previous_grade": 4.62,
+    "passed": false
+  },
+  {
+    "id": 152,
+    "age": null,
+    "study_hours": null,
+    "attendance": 58,
+    "sleep_hours": 5.7,
+    "previous_grade": 4.77,
+    "passed": true
+  },
+  {
+    "id": 153,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 5.9,
+    "previous_grade": 3.27,
+    "passed": true
+  },
+  {
+    "id": 154,
+    "age": 25,
+    "study_hours": 7.0,
+    "attendance": 29,
+    "sleep_hours": 7.1,
+    "previous_grade": 2.94,
+    "passed": true
+  },
+  {
+    "id": 155,
+    "age": null,
+    "study_hours": null,
+    "attendance": 36,
+    "sleep_hours": 6.2,
+    "previous_grade": 2.39,
+    "passed": true
+  },
+  {
+    "id": 156,
+    "age": 19,
+    "study_hours": 3.8,
+    "attendance": 63,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.18,
+    "passed": true
+  },
+  {
+    "id": 157,
+    "age": 22,
+    "study_hours": 3.2,
+    "attendance": 80,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.12,
+    "passed": true
+  },
+  {
+    "id": 158,
+    "age": 20,
+    "study_hours": 1.8,
+    "attendance": 35,
+    "sleep_hours": 7.0,
+    "previous_grade": 3.53,
+    "passed": false
+  },
+  {
+    "id": 159,
+    "age": 25,
+    "study_hours": 7.3,
+    "attendance": 43,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.55,
+    "passed": true
+  },
+  {
+    "id": 160,
+    "age": 18,
+    "study_hours": 7.2,
+    "attendance": 84,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.71,
+    "passed": true
+  },
+  {
+    "id": 161,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.85,
+    "passed": true
+  },
+  {
+    "id": 162,
+    "age": null,
+    "study_hours": null,
+    "attendance": 50,
+    "sleep_hours": 9.0,
+    "previous_grade": 5.41,
+    "passed": true
+  },
+  {
+    "id": 163,
+    "age": 24,
+    "study_hours": 4.8,
+    "attendance": 98,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.8,
+    "passed": true
+  },
+  {
+    "id": 164,
+    "age": null,
+    "study_hours": null,
+    "attendance": 97,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.11,
+    "passed": true
+  },
+  {
+    "id": 165,
+    "age": 27,
+    "study_hours": 6.1,
+    "attendance": 61,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.92,
+    "passed": true
+  },
+  {
+    "id": 166,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.88,
+    "passed": true
+  },
+  {
+    "id": 167,
+    "age": 20,
+    "study_hours": 5.2,
+    "attendance": 30,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.76,
+    "passed": false
+  },
+  {
+    "id": 168,
+    "age": 20,
+    "study_hours": 1.2,
+    "attendance": 62,
+    "sleep_hours": 5.6,
+    "previous_grade": 3.66,
+    "passed": false
+  },
+  {
+    "id": 169,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 6.7,
+    "previous_grade": 5.65,
+    "passed": true
+  },
+  {
+    "id": 170,
+    "age": 22,
+    "study_hours": 7.4,
+    "attendance": 86,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.18,
+    "passed": true
+  },
+  {
+    "id": 171,
+    "age": 19,
+    "study_hours": 4.0,
+    "attendance": 34,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.87,
+    "passed": true
+  },
+  {
+    "id": 172,
+    "age": 24,
+    "study_hours": 7.8,
+    "attendance": 96,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.16,
+    "passed": true
+  },
+  {
+    "id": 173,
+    "age": 26,
+    "study_hours": 1.4,
+    "attendance": 72,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.69,
+    "passed": false
+  },
+  {
+    "id": 174,
+    "age": 23,
+    "study_hours": 1.3,
+    "attendance": 54,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.48,
+    "passed": true
+  },
+  {
+    "id": 175,
+    "age": null,
+    "study_hours": null,
+    "attendance": 53,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.54,
+    "passed": true
+  },
+  {
+    "id": 176,
+    "age": null,
+    "study_hours": null,
+    "attendance": 39,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.79,
+    "passed": true
+  },
+  {
+    "id": 177,
+    "age": 25,
+    "study_hours": 1.4,
+    "attendance": 55,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.54,
+    "passed": false
+  },
+  {
+    "id": 178,
+    "age": 26,
+    "study_hours": 3.6,
+    "attendance": 44,
+    "sleep_hours": 8.4,
+    "previous_grade": 4.62,
+    "passed": true
+  },
+  {
+    "id": 179,
+    "age": 27,
+    "study_hours": 3.6,
+    "attendance": 60,
+    "sleep_hours": 4.2,
+    "previous_grade": 3.48,
+    "passed": false
+  },
+  {
+    "id": 180,
+    "age": null,
+    "study_hours": null,
+    "attendance": 37,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.47,
+    "passed": true
+  },
+  {
+    "id": 181,
+    "age": null,
+    "study_hours": null,
+    "attendance": 60,
+    "sleep_hours": 4.9,
+    "previous_grade": 2.49,
+    "passed": false
+  },
+  {
+    "id": 182,
+    "age": 25,
+    "study_hours": 1.2,
+    "attendance": 52,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.39,
+    "passed": false
+  },
+  {
+    "id": 183,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.82,
+    "passed": false
+  },
+  {
+    "id": 184,
+    "age": null,
+    "study_hours": null,
+    "attendance": 52,
+    "sleep_hours": 8.1,
+    "previous_grade": 2.93,
+    "passed": false
+  },
+  {
+    "id": 185,
+    "age": 27,
+    "study_hours": 0.5,
+    "attendance": 43,
+    "sleep_hours": 8.9,
+    "previous_grade": 4.16,
+    "passed": false
+  },
+  {
+    "id": 186,
+    "age": 19,
+    "study_hours": 5.5,
+    "attendance": 28,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.43,
+    "passed": true
+  },
+  {
+    "id": 187,
+    "age": 27,
+    "study_hours": 2.9,
+    "attendance": 47,
+    "sleep_hours": 5.3,
+    "previous_grade": 2.51,
+    "passed": false
+  },
+  {
+    "id": 188,
+    "age": 19,
+    "study_hours": 6.1,
+    "attendance": 85,
+    "sleep_hours": 6.2,
+    "previous_grade": 3.45,
+    "passed": true
+  },
+  {
+    "id": 189,
+    "age": 25,
+    "study_hours": 4.3,
+    "attendance": 30,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.64,
+    "passed": true
+  },
+  {
+    "id": 190,
+    "age": null,
+    "study_hours": null,
+    "attendance": 28,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.92,
+    "passed": false
+  },
+  {
+    "id": 191,
+    "age": 19,
+    "study_hours": 4.2,
+    "attendance": 81,
+    "sleep_hours": 4.4,
+    "previous_grade": 2.32,
+    "passed": true
+  },
+  {
+    "id": 192,
+    "age": 19,
+    "study_hours": 1.4,
+    "attendance": 99,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.3,
+    "passed": true
+  },
+  {
+    "id": 193,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 7.0,
+    "previous_grade": 2.4,
+    "passed": true
+  },
+  {
+    "id": 194,
+    "age": 26,
+    "study_hours": 5.9,
+    "attendance": 52,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.55,
+    "passed": true
+  },
+  {
+    "id": 195,
+    "age": 25,
+    "study_hours": 3.5,
+    "attendance": 37,
+    "sleep_hours": 5.6,
+    "previous_grade": 3.25,
+    "passed": false
+  },
+  {
+    "id": 196,
+    "age": 20,
+    "study_hours": 5.7,
+    "attendance": 85,
+    "sleep_hours": 4.3,
+    "previous_grade": 5.33,
+    "passed": true
+  },
+  {
+    "id": 197,
+    "age": 19,
+    "study_hours": 6.1,
+    "attendance": 72,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.23,
+    "passed": true
+  },
+  {
+    "id": 198,
+    "age": 26,
+    "study_hours": 4.7,
+    "attendance": 40,
+    "sleep_hours": 6.1,
+    "previous_grade": 5.49,
+    "passed": true
+  },
+  {
+    "id": 199,
+    "age": null,
+    "study_hours": null,
+    "attendance": 31,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.4,
+    "passed": true
+  },
+  {
+    "id": 200,
+    "age": 27,
+    "study_hours": 4.3,
+    "attendance": 44,
+    "sleep_hours": 7.3,
+    "previous_grade": 2.9,
+    "passed": false
+  },
+  {
+    "id": 201,
+    "age": 26,
+    "study_hours": 3.3,
+    "attendance": 60,
+    "sleep_hours": 6.9,
+    "previous_grade": 5.23,
+    "passed": true
+  },
+  {
+    "id": 202,
+    "age": 27,
+    "study_hours": 5.1,
+    "attendance": 96,
+    "sleep_hours": 4.1,
+    "previous_grade": 5.72,
+    "passed": true
+  },
+  {
+    "id": 203,
+    "age": 22,
+    "study_hours": 0.7,
+    "attendance": 59,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.24,
+    "passed": false
+  },
+  {
+    "id": 204,
+    "age": null,
+    "study_hours": null,
+    "attendance": 43,
+    "sleep_hours": 6.8,
+    "previous_grade": 3.6,
+    "passed": false
+  },
+  {
+    "id": 205,
+    "age": null,
+    "study_hours": null,
+    "attendance": 92,
+    "sleep_hours": 5.1,
+    "previous_grade": 3.68,
+    "passed": false
+  },
+  {
+    "id": 206,
+    "age": 23,
+    "study_hours": 2.8,
+    "attendance": 66,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.27,
+    "passed": false
+  },
+  {
+    "id": 207,
+    "age": 18,
+    "study_hours": 1.7,
+    "attendance": 31,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.09,
+    "passed": false
+  },
+  {
+    "id": 208,
+    "age": null,
+    "study_hours": null,
+    "attendance": 78,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.02,
+    "passed": true
+  },
+  {
+    "id": 209,
+    "age": 24,
+    "study_hours": 1.3,
+    "attendance": 100,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.67,
+    "passed": false
+  },
+  {
+    "id": 210,
+    "age": null,
+    "study_hours": null,
+    "attendance": 32,
+    "sleep_hours": 4.0,
+    "previous_grade": 3.21,
+    "passed": false
+  },
+  {
+    "id": 211,
+    "age": 20,
+    "study_hours": 6.2,
+    "attendance": 62,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.03,
+    "passed": true
+  },
+  {
+    "id": 212,
+    "age": 20,
+    "study_hours": 1.5,
+    "attendance": 93,
+    "sleep_hours": 7.5,
+    "previous_grade": 4.0,
+    "passed": true
+  },
+  {
+    "id": 213,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 6.2,
+    "previous_grade": 3.84,
+    "passed": false
+  },
+  {
+    "id": 214,
+    "age": 23,
+    "study_hours": 4.8,
+    "attendance": 98,
+    "sleep_hours": 6.0,
+    "previous_grade": 4.56,
+    "passed": true
+  },
+  {
+    "id": 215,
+    "age": null,
+    "study_hours": null,
+    "attendance": 66,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.79,
+    "passed": false
+  },
+  {
+    "id": 216,
+    "age": 23,
+    "study_hours": 1.2,
+    "attendance": 38,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.36,
+    "passed": false
+  },
+  {
+    "id": 217,
+    "age": 24,
+    "study_hours": 7.0,
+    "attendance": 68,
+    "sleep_hours": 5.1,
+    "previous_grade": 5.12,
+    "passed": true
+  },
+  {
+    "id": 218,
+    "age": 19,
+    "study_hours": 4.5,
+    "attendance": 49,
+    "sleep_hours": 8.5,
+    "previous_grade": 3.4,
+    "passed": true
+  },
+  {
+    "id": 219,
+    "age": 20,
+    "study_hours": 2.3,
+    "attendance": 43,
+    "sleep_hours": 5.3,
+    "previous_grade": 2.69,
+    "passed": false
+  },
+  {
+    "id": 220,
+    "age": 19,
+    "study_hours": 1.8,
+    "attendance": 88,
+    "sleep_hours": 6.3,
+    "previous_grade": 4.25,
+    "passed": true
+  },
+  {
+    "id": 221,
+    "age": 27,
+    "study_hours": 5.3,
+    "attendance": 66,
+    "sleep_hours": 8.3,
+    "previous_grade": 4.51,
+    "passed": false
+  },
+  {
+    "id": 222,
+    "age": null,
+    "study_hours": null,
+    "attendance": 63,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.37,
+    "passed": false
+  },
+  {
+    "id": 223,
+    "age": 19,
+    "study_hours": 2.8,
+    "attendance": 82,
+    "sleep_hours": 4.2,
+    "previous_grade": 3.47,
+    "passed": false
+  },
+  {
+    "id": 224,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.32,
+    "passed": true
+  },
+  {
+    "id": 225,
+    "age": 18,
+    "study_hours": 3.9,
+    "attendance": 98,
+    "sleep_hours": 7.3,
+    "previous_grade": 3.29,
+    "passed": true
+  },
+  {
+    "id": 226,
+    "age": null,
+    "study_hours": null,
+    "attendance": 82,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.6,
+    "passed": true
+  },
+  {
+    "id": 227,
+    "age": 19,
+    "study_hours": 4.3,
+    "attendance": 47,
+    "sleep_hours": 4.2,
+    "previous_grade": 4.83,
+    "passed": true
+  },
+  {
+    "id": 228,
+    "age": null,
+    "study_hours": null,
+    "attendance": 45,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.67,
+    "passed": true
+  },
+  {
+    "id": 229,
+    "age": 23,
+    "study_hours": 5.6,
+    "attendance": 31,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.59,
+    "passed": false
+  },
+  {
+    "id": 230,
+    "age": 19,
+    "study_hours": 4.7,
+    "attendance": 74,
+    "sleep_hours": 5.4,
+    "previous_grade": 4.89,
+    "passed": true
+  },
+  {
+    "id": 231,
+    "age": null,
+    "study_hours": null,
+    "attendance": 67,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.65,
+    "passed": true
+  },
+  {
+    "id": 232,
+    "age": 22,
+    "study_hours": 7.8,
+    "attendance": 75,
+    "sleep_hours": 4.6,
+    "previous_grade": 4.84,
+    "passed": true
+  },
+  {
+    "id": 233,
+    "age": 26,
+    "study_hours": 3.3,
+    "attendance": 67,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.68,
+    "passed": true
+  },
+  {
+    "id": 234,
+    "age": null,
+    "study_hours": null,
+    "attendance": 79,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.07,
+    "passed": false
+  },
+  {
+    "id": 235,
+    "age": 21,
+    "study_hours": 3.1,
+    "attendance": 87,
+    "sleep_hours": 5.0,
+    "previous_grade": 6.0,
+    "passed": true
+  },
+  {
+    "id": 236,
+    "age": null,
+    "study_hours": null,
+    "attendance": 37,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.16,
+    "passed": true
+  },
+  {
+    "id": 237,
+    "age": 26,
+    "study_hours": 0.8,
+    "attendance": 68,
+    "sleep_hours": 8.4,
+    "previous_grade": 4.47,
+    "passed": false
+  },
+  {
+    "id": 238,
+    "age": 20,
+    "study_hours": 1.7,
+    "attendance": 46,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.17,
+    "passed": false
+  },
+  {
+    "id": 239,
+    "age": 21,
+    "study_hours": 7.8,
+    "attendance": 61,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.14,
+    "passed": true
+  },
+  {
+    "id": 240,
+    "age": 21,
+    "study_hours": 2.8,
+    "attendance": 85,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.78,
+    "passed": true
+  },
+  {
+    "id": 241,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.11,
+    "passed": true
+  },
+  {
+    "id": 242,
+    "age": 24,
+    "study_hours": 7.7,
+    "attendance": 50,
+    "sleep_hours": 8.0,
+    "previous_grade": 2.55,
+    "passed": false
+  },
+  {
+    "id": 243,
+    "age": null,
+    "study_hours": null,
+    "attendance": 95,
+    "sleep_hours": 8.7,
+    "previous_grade": 4.85,
+    "passed": true
+  },
+  {
+    "id": 244,
+    "age": 19,
+    "study_hours": 2.6,
+    "attendance": 45,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.62,
+    "passed": false
+  },
+  {
+    "id": 245,
+    "age": null,
+    "study_hours": null,
+    "attendance": 53,
+    "sleep_hours": 8.1,
+    "previous_grade": 5.54,
+    "passed": true
+  },
+  {
+    "id": 246,
+    "age": 24,
+    "study_hours": 0.9,
+    "attendance": 89,
+    "sleep_hours": 5.9,
+    "previous_grade": 3.54,
+    "passed": false
+  },
+  {
+    "id": 247,
+    "age": null,
+    "study_hours": null,
+    "attendance": 37,
+    "sleep_hours": 8.2,
+    "previous_grade": 4.6,
+    "passed": false
+  },
+  {
+    "id": 248,
+    "age": 20,
+    "study_hours": 0.8,
+    "attendance": 85,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 249,
+    "age": 25,
+    "study_hours": 5.1,
+    "attendance": 35,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.86,
+    "passed": false
+  },
+  {
+    "id": 250,
+    "age": 27,
+    "study_hours": 4.5,
+    "attendance": 39,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.95,
+    "passed": false
+  },
+  {
+    "id": 251,
+    "age": 21,
+    "study_hours": 3.6,
+    "attendance": 83,
+    "sleep_hours": 4.3,
+    "previous_grade": 5.35,
+    "passed": true
+  },
+  {
+    "id": 252,
+    "age": 26,
+    "study_hours": 0.6,
+    "attendance": 90,
+    "sleep_hours": 6.9,
+    "previous_grade": 4.87,
+    "passed": false
+  },
+  {
+    "id": 253,
+    "age": null,
+    "study_hours": null,
+    "attendance": 55,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.75,
+    "passed": true
+  },
+  {
+    "id": 254,
+    "age": null,
+    "study_hours": null,
+    "attendance": 33,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.18,
+    "passed": true
+  },
+  {
+    "id": 255,
+    "age": 26,
+    "study_hours": 4.7,
+    "attendance": 74,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.17,
+    "passed": false
+  },
+  {
+    "id": 256,
+    "age": 23,
+    "study_hours": 2.4,
+    "attendance": 27,
+    "sleep_hours": 5.8,
+    "previous_grade": 2.27,
+    "passed": false
+  },
+  {
+    "id": 257,
+    "age": 19,
+    "study_hours": 6.3,
+    "attendance": 67,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.41,
+    "passed": true
+  },
+  {
+    "id": 258,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.91,
+    "passed": true
+  },
+  {
+    "id": 259,
+    "age": 20,
+    "study_hours": 1.0,
+    "attendance": 83,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.81,
+    "passed": false
+  },
+  {
+    "id": 260,
+    "age": 18,
+    "study_hours": 2.9,
+    "attendance": 64,
+    "sleep_hours": 6.6,
+    "previous_grade": 5.96,
+    "passed": true
+  },
+  {
+    "id": 261,
+    "age": 22,
+    "study_hours": 0.8,
+    "attendance": 49,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.45,
+    "passed": false
+  },
+  {
+    "id": 262,
+    "age": 23,
+    "study_hours": 2.5,
+    "attendance": 72,
+    "sleep_hours": 6.2,
+    "previous_grade": 3.6,
+    "passed": false
+  },
+  {
+    "id": 263,
+    "age": 24,
+    "study_hours": 3.0,
+    "attendance": 48,
+    "sleep_hours": 6.5,
+    "previous_grade": 3.99,
+    "passed": true
+  },
+  {
+    "id": 264,
+    "age": 26,
+    "study_hours": 2.5,
+    "attendance": 35,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.32,
+    "passed": false
+  },
+  {
+    "id": 265,
+    "age": 20,
+    "study_hours": 4.6,
+    "attendance": 66,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.31,
+    "passed": false
+  },
+  {
+    "id": 266,
+    "age": 25,
+    "study_hours": 5.0,
+    "attendance": 79,
+    "sleep_hours": 4.8,
+    "previous_grade": 3.78,
+    "passed": true
+  },
+  {
+    "id": 267,
+    "age": 23,
+    "study_hours": 5.1,
+    "attendance": 80,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.92,
+    "passed": true
+  },
+  {
+    "id": 268,
+    "age": 19,
+    "study_hours": 5.5,
+    "attendance": 76,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.2,
+    "passed": true
+  },
+  {
+    "id": 269,
+    "age": 18,
+    "study_hours": 1.6,
+    "attendance": 81,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.27,
+    "passed": false
+  },
+  {
+    "id": 270,
+    "age": 23,
+    "study_hours": 3.2,
+    "attendance": 97,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 271,
+    "age": 23,
+    "study_hours": 3.3,
+    "attendance": 34,
+    "sleep_hours": 6.9,
+    "previous_grade": 4.12,
+    "passed": false
+  },
+  {
+    "id": 272,
+    "age": 22,
+    "study_hours": 2.4,
+    "attendance": 39,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.74,
+    "passed": false
+  },
+  {
+    "id": 273,
+    "age": 26,
+    "study_hours": 1.4,
+    "attendance": 58,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.86,
+    "passed": false
+  },
+  {
+    "id": 274,
+    "age": null,
+    "study_hours": null,
+    "attendance": 42,
+    "sleep_hours": 8.3,
+    "previous_grade": 3.81,
+    "passed": false
+  },
+  {
+    "id": 275,
+    "age": 25,
+    "study_hours": 8.0,
+    "attendance": 65,
+    "sleep_hours": 7.3,
+    "previous_grade": 4.84,
+    "passed": true
+  },
+  {
+    "id": 276,
+    "age": 22,
+    "study_hours": 7.2,
+    "attendance": 45,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.71,
+    "passed": true
+  },
+  {
+    "id": 277,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 8.9,
+    "previous_grade": 5.17,
+    "passed": false
+  },
+  {
+    "id": 278,
+    "age": 25,
+    "study_hours": 0.7,
+    "attendance": 95,
+    "sleep_hours": 6.9,
+    "previous_grade": 3.87,
+    "passed": true
+  },
+  {
+    "id": 279,
+    "age": 20,
+    "study_hours": 5.1,
+    "attendance": 36,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.59,
+    "passed": true
+  },
+  {
+    "id": 280,
+    "age": 25,
+    "study_hours": 4.4,
+    "attendance": 77,
+    "sleep_hours": 8.1,
+    "previous_grade": 2.3,
+    "passed": true
+  },
+  {
+    "id": 281,
+    "age": 19,
+    "study_hours": 3.9,
+    "attendance": 91,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.51,
+    "passed": true
+  },
+  {
+    "id": 282,
+    "age": 27,
+    "study_hours": 1.9,
+    "attendance": 41,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.64,
+    "passed": false
+  },
+  {
+    "id": 283,
+    "age": null,
+    "study_hours": null,
+    "attendance": 63,
+    "sleep_hours": 4.8,
+    "previous_grade": 3.29,
+    "passed": true
+  },
+  {
+    "id": 284,
+    "age": null,
+    "study_hours": null,
+    "attendance": 91,
+    "sleep_hours": 8.5,
+    "previous_grade": 5.38,
+    "passed": true
+  },
+  {
+    "id": 285,
+    "age": 26,
+    "study_hours": 2.6,
+    "attendance": 63,
+    "sleep_hours": 7.1,
+    "previous_grade": 2.37,
+    "passed": false
+  },
+  {
+    "id": 286,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.5,
+    "passed": true
+  },
+  {
+    "id": 287,
+    "age": 23,
+    "study_hours": 6.8,
+    "attendance": 97,
+    "sleep_hours": 4.2,
+    "previous_grade": 5.46,
+    "passed": true
+  },
+  {
+    "id": 288,
+    "age": null,
+    "study_hours": null,
+    "attendance": 51,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.67,
+    "passed": false
+  },
+  {
+    "id": 289,
+    "age": 25,
+    "study_hours": 7.2,
+    "attendance": 94,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.83,
+    "passed": true
+  },
+  {
+    "id": 290,
+    "age": 24,
+    "study_hours": 2.7,
+    "attendance": 34,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.63,
+    "passed": false
+  },
+  {
+    "id": 291,
+    "age": 25,
+    "study_hours": 2.0,
+    "attendance": 43,
+    "sleep_hours": 5.6,
+    "previous_grade": 4.87,
+    "passed": false
+  },
+  {
+    "id": 292,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 7.8,
+    "previous_grade": 4.06,
+    "passed": false
+  },
+  {
+    "id": 293,
+    "age": 21,
+    "study_hours": 4.0,
+    "attendance": 59,
+    "sleep_hours": 6.2,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 294,
+    "age": 24,
+    "study_hours": 7.0,
+    "attendance": 78,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.46,
+    "passed": true
+  },
+  {
+    "id": 295,
+    "age": 23,
+    "study_hours": 7.5,
+    "attendance": 65,
+    "sleep_hours": 4.9,
+    "previous_grade": 2.64,
+    "passed": true
+  },
+  {
+    "id": 296,
+    "age": null,
+    "study_hours": null,
+    "attendance": 64,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.36,
+    "passed": false
+  },
+  {
+    "id": 297,
+    "age": 25,
+    "study_hours": 7.8,
+    "attendance": 52,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.19,
+    "passed": false
+  },
+  {
+    "id": 298,
+    "age": 27,
+    "study_hours": 7.1,
+    "attendance": 85,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.03,
+    "passed": false
+  },
+  {
+    "id": 299,
+    "age": 20,
+    "study_hours": 7.1,
+    "attendance": 71,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.46,
+    "passed": true
+  },
+  {
+    "id": 300,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.29,
+    "passed": false
+  },
+  {
+    "id": 301,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 4.6,
+    "previous_grade": 2.39,
+    "passed": false
+  },
+  {
+    "id": 302,
+    "age": 23,
+    "study_hours": 4.7,
+    "attendance": 71,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.8,
+    "passed": true
+  },
+  {
+    "id": 303,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.33,
+    "passed": false
+  },
+  {
+    "id": 304,
+    "age": null,
+    "study_hours": null,
+    "attendance": 90,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.73,
+    "passed": true
+  },
+  {
+    "id": 305,
+    "age": 24,
+    "study_hours": 7.9,
+    "attendance": 63,
+    "sleep_hours": 7.0,
+    "previous_grade": 4.03,
+    "passed": true
+  },
+  {
+    "id": 306,
+    "age": 25,
+    "study_hours": 5.8,
+    "attendance": 63,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.07,
+    "passed": false
+  },
+  {
+    "id": 307,
+    "age": 19,
+    "study_hours": 7.8,
+    "attendance": 99,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.6,
+    "passed": true
+  },
+  {
+    "id": 308,
+    "age": 18,
+    "study_hours": 5.0,
+    "attendance": 58,
+    "sleep_hours": 8.8,
+    "previous_grade": 5.13,
+    "passed": true
+  },
+  {
+    "id": 309,
+    "age": 27,
+    "study_hours": 2.2,
+    "attendance": 31,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.68,
+    "passed": false
+  },
+  {
+    "id": 310,
+    "age": 27,
+    "study_hours": 6.3,
+    "attendance": 73,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.72,
+    "passed": true
+  },
+  {
+    "id": 311,
+    "age": 19,
+    "study_hours": 1.9,
+    "attendance": 81,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 312,
+    "age": 24,
+    "study_hours": 4.3,
+    "attendance": 85,
+    "sleep_hours": 8.4,
+    "previous_grade": 4.94,
+    "passed": false
+  },
+  {
+    "id": 313,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 5.6,
+    "previous_grade": 4.65,
+    "passed": true
+  },
+  {
+    "id": 314,
+    "age": 23,
+    "study_hours": 7.7,
+    "attendance": 83,
+    "sleep_hours": 8.6,
+    "previous_grade": 3.37,
+    "passed": true
+  },
+  {
+    "id": 315,
+    "age": 22,
+    "study_hours": 5.1,
+    "attendance": 49,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.12,
+    "passed": false
+  },
+  {
+    "id": 316,
+    "age": 22,
+    "study_hours": 6.3,
+    "attendance": 51,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.96,
+    "passed": true
+  },
+  {
+    "id": 317,
+    "age": 26,
+    "study_hours": 7.5,
+    "attendance": 60,
+    "sleep_hours": 5.4,
+    "previous_grade": 4.29,
+    "passed": true
+  },
+  {
+    "id": 318,
+    "age": 24,
+    "study_hours": 6.6,
+    "attendance": 43,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.15,
+    "passed": true
+  },
+  {
+    "id": 319,
+    "age": 23,
+    "study_hours": 7.4,
+    "attendance": 57,
+    "sleep_hours": 7.7,
+    "previous_grade": 2.86,
+    "passed": true
+  },
+  {
+    "id": 320,
+    "age": 22,
+    "study_hours": 7.5,
+    "attendance": 59,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.46,
+    "passed": true
+  },
+  {
+    "id": 321,
+    "age": 21,
+    "study_hours": 0.9,
+    "attendance": 92,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.93,
+    "passed": false
+  },
+  {
+    "id": 322,
+    "age": 23,
+    "study_hours": 5.9,
+    "attendance": 37,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.55,
+    "passed": true
+  },
+  {
+    "id": 323,
+    "age": 20,
+    "study_hours": 3.6,
+    "attendance": 85,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.8,
+    "passed": true
+  },
+  {
+    "id": 324,
+    "age": 23,
+    "study_hours": 2.6,
+    "attendance": 32,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.36,
+    "passed": false
+  },
+  {
+    "id": 325,
+    "age": 26,
+    "study_hours": 6.0,
+    "attendance": 29,
+    "sleep_hours": 8.6,
+    "previous_grade": 2.7,
+    "passed": true
+  },
+  {
+    "id": 326,
+    "age": 20,
+    "study_hours": 7.5,
+    "attendance": 29,
+    "sleep_hours": 9.0,
+    "previous_grade": 3.59,
+    "passed": true
+  },
+  {
+    "id": 327,
+    "age": 22,
+    "study_hours": 7.1,
+    "attendance": 26,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.41,
+    "passed": true
+  },
+  {
+    "id": 328,
+    "age": 23,
+    "study_hours": 2.6,
+    "attendance": 94,
+    "sleep_hours": 6.6,
+    "previous_grade": 5.56,
+    "passed": false
+  },
+  {
+    "id": 329,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.32,
+    "passed": true
+  },
+  {
+    "id": 330,
+    "age": 22,
+    "study_hours": 5.9,
+    "attendance": 26,
+    "sleep_hours": 7.7,
+    "previous_grade": 5.16,
+    "passed": true
+  },
+  {
+    "id": 331,
+    "age": 21,
+    "study_hours": 1.8,
+    "attendance": 76,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.06,
+    "passed": false
+  },
+  {
+    "id": 332,
+    "age": 19,
+    "study_hours": 1.9,
+    "attendance": 42,
+    "sleep_hours": 6.4,
+    "previous_grade": 5.74,
+    "passed": false
+  },
+  {
+    "id": 333,
+    "age": 24,
+    "study_hours": 2.3,
+    "attendance": 59,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.21,
+    "passed": false
+  },
+  {
+    "id": 334,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.25,
+    "passed": false
+  },
+  {
+    "id": 335,
+    "age": 22,
+    "study_hours": 1.7,
+    "attendance": 89,
+    "sleep_hours": 8.6,
+    "previous_grade": 5.55,
+    "passed": true
+  },
+  {
+    "id": 336,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 5.8,
+    "previous_grade": 2.88,
+    "passed": true
+  },
+  {
+    "id": 337,
+    "age": 25,
+    "study_hours": 1.6,
+    "attendance": 72,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.2,
+    "passed": false
+  },
+  {
+    "id": 338,
+    "age": 26,
+    "study_hours": 6.5,
+    "attendance": 52,
+    "sleep_hours": 7.8,
+    "previous_grade": 4.72,
+    "passed": true
+  },
+  {
+    "id": 339,
+    "age": 19,
+    "study_hours": 4.4,
+    "attendance": 92,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.31,
+    "passed": true
+  },
+  {
+    "id": 340,
+    "age": 18,
+    "study_hours": 6.7,
+    "attendance": 89,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.15,
+    "passed": true
+  },
+  {
+    "id": 341,
+    "age": null,
+    "study_hours": null,
+    "attendance": 51,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.96,
+    "passed": true
+  },
+  {
+    "id": 342,
+    "age": 25,
+    "study_hours": 6.6,
+    "attendance": 83,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.66,
+    "passed": true
+  },
+  {
+    "id": 343,
+    "age": null,
+    "study_hours": null,
+    "attendance": 64,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.58,
+    "passed": true
+  },
+  {
+    "id": 344,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.8,
+    "passed": true
+  },
+  {
+    "id": 345,
+    "age": 18,
+    "study_hours": 7.5,
+    "attendance": 33,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.89,
+    "passed": false
+  },
+  {
+    "id": 346,
+    "age": 20,
+    "study_hours": 6.3,
+    "attendance": 78,
+    "sleep_hours": 5.9,
+    "previous_grade": 5.57,
+    "passed": true
+  },
+  {
+    "id": 347,
+    "age": 24,
+    "study_hours": 3.3,
+    "attendance": 94,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.44,
+    "passed": true
+  },
+  {
+    "id": 348,
+    "age": 26,
+    "study_hours": 3.4,
+    "attendance": 41,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.89,
+    "passed": false
+  },
+  {
+    "id": 349,
+    "age": 18,
+    "study_hours": 7.8,
+    "attendance": 84,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.18,
+    "passed": true
+  },
+  {
+    "id": 350,
+    "age": 21,
+    "study_hours": 2.4,
+    "attendance": 69,
+    "sleep_hours": 4.8,
+    "previous_grade": 2.75,
+    "passed": true
+  },
+  {
+    "id": 351,
+    "age": 19,
+    "study_hours": 0.7,
+    "attendance": 78,
+    "sleep_hours": 7.1,
+    "previous_grade": 5.74,
+    "passed": true
+  },
+  {
+    "id": 352,
+    "age": null,
+    "study_hours": null,
+    "attendance": 37,
+    "sleep_hours": 7.0,
+    "previous_grade": 3.79,
+    "passed": false
+  },
+  {
+    "id": 353,
+    "age": 18,
+    "study_hours": 2.3,
+    "attendance": 30,
+    "sleep_hours": 6.0,
+    "previous_grade": 2.94,
+    "passed": false
+  },
+  {
+    "id": 354,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.67,
+    "passed": true
+  },
+  {
+    "id": 355,
+    "age": 27,
+    "study_hours": 5.0,
+    "attendance": 66,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.51,
+    "passed": true
+  },
+  {
+    "id": 356,
+    "age": 26,
+    "study_hours": 2.2,
+    "attendance": 63,
+    "sleep_hours": 5.4,
+    "previous_grade": 4.23,
+    "passed": false
+  },
+  {
+    "id": 357,
+    "age": 20,
+    "study_hours": 5.2,
+    "attendance": 79,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.19,
+    "passed": false
+  },
+  {
+    "id": 358,
+    "age": 24,
+    "study_hours": 6.4,
+    "attendance": 65,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.63,
+    "passed": true
+  },
+  {
+    "id": 359,
+    "age": 20,
+    "study_hours": 6.2,
+    "attendance": 85,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.9,
+    "passed": true
+  },
+  {
+    "id": 360,
+    "age": 20,
+    "study_hours": 6.5,
+    "attendance": 32,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.87,
+    "passed": true
+  },
+  {
+    "id": 361,
+    "age": 20,
+    "study_hours": 3.4,
+    "attendance": 57,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.59,
+    "passed": true
+  },
+  {
+    "id": 362,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.51,
+    "passed": false
+  },
+  {
+    "id": 363,
+    "age": 18,
+    "study_hours": 7.1,
+    "attendance": 49,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.35,
+    "passed": true
+  },
+  {
+    "id": 364,
+    "age": 21,
+    "study_hours": 4.1,
+    "attendance": 67,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.64,
+    "passed": true
+  },
+  {
+    "id": 365,
+    "age": 21,
+    "study_hours": 7.7,
+    "attendance": 40,
+    "sleep_hours": 7.7,
+    "previous_grade": 5.02,
+    "passed": true
+  },
+  {
+    "id": 366,
+    "age": 27,
+    "study_hours": 5.8,
+    "attendance": 75,
+    "sleep_hours": 8.6,
+    "previous_grade": 4.21,
+    "passed": true
+  },
+  {
+    "id": 367,
+    "age": 24,
+    "study_hours": 4.0,
+    "attendance": 70,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.44,
+    "passed": true
+  },
+  {
+    "id": 368,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.28,
+    "passed": false
+  },
+  {
+    "id": 369,
+    "age": 23,
+    "study_hours": 3.6,
+    "attendance": 97,
+    "sleep_hours": 8.3,
+    "previous_grade": 4.97,
+    "passed": false
+  },
+  {
+    "id": 370,
+    "age": 26,
+    "study_hours": 7.5,
+    "attendance": 99,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.18,
+    "passed": true
+  },
+  {
+    "id": 371,
+    "age": 21,
+    "study_hours": 3.3,
+    "attendance": 56,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.62,
+    "passed": true
+  },
+  {
+    "id": 372,
+    "age": 22,
+    "study_hours": 6.2,
+    "attendance": 87,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.57,
+    "passed": true
+  },
+  {
+    "id": 373,
+    "age": null,
+    "study_hours": null,
+    "attendance": 70,
+    "sleep_hours": 4.8,
+    "previous_grade": 4.88,
+    "passed": true
+  },
+  {
+    "id": 374,
+    "age": 26,
+    "study_hours": 7.9,
+    "attendance": 32,
+    "sleep_hours": 6.6,
+    "previous_grade": 5.36,
+    "passed": false
+  },
+  {
+    "id": 375,
+    "age": null,
+    "study_hours": null,
+    "attendance": 77,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.52,
+    "passed": true
+  },
+  {
+    "id": 376,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 6.3,
+    "previous_grade": 2.24,
+    "passed": false
+  },
+  {
+    "id": 377,
+    "age": null,
+    "study_hours": null,
+    "attendance": 87,
+    "sleep_hours": 4.1,
+    "previous_grade": 4.13,
+    "passed": true
+  },
+  {
+    "id": 378,
+    "age": 18,
+    "study_hours": 4.5,
+    "attendance": 60,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.15,
+    "passed": false
+  },
+  {
+    "id": 379,
+    "age": 24,
+    "study_hours": 6.5,
+    "attendance": 47,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.39,
+    "passed": false
+  },
+  {
+    "id": 380,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 8.1,
+    "previous_grade": 3.07,
+    "passed": false
+  },
+  {
+    "id": 381,
+    "age": 23,
+    "study_hours": 7.7,
+    "attendance": 83,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.96,
+    "passed": true
+  },
+  {
+    "id": 382,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.52,
+    "passed": false
+  },
+  {
+    "id": 383,
+    "age": null,
+    "study_hours": null,
+    "attendance": 46,
+    "sleep_hours": 4.4,
+    "previous_grade": 5.38,
+    "passed": true
+  },
+  {
+    "id": 384,
+    "age": 23,
+    "study_hours": 4.7,
+    "attendance": 37,
+    "sleep_hours": 8.5,
+    "previous_grade": 5.68,
+    "passed": false
+  },
+  {
+    "id": 385,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 8.6,
+    "previous_grade": 4.74,
+    "passed": false
+  },
+  {
+    "id": 386,
+    "age": 26,
+    "study_hours": 4.7,
+    "attendance": 29,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.4,
+    "passed": false
+  },
+  {
+    "id": 387,
+    "age": 21,
+    "study_hours": 4.9,
+    "attendance": 75,
+    "sleep_hours": 8.6,
+    "previous_grade": 3.2,
+    "passed": true
+  },
+  {
+    "id": 388,
+    "age": 27,
+    "study_hours": 6.8,
+    "attendance": 74,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.16,
+    "passed": true
+  },
+  {
+    "id": 389,
+    "age": 20,
+    "study_hours": 6.4,
+    "attendance": 35,
+    "sleep_hours": 6.5,
+    "previous_grade": 5.9,
+    "passed": false
+  },
+  {
+    "id": 390,
+    "age": 24,
+    "study_hours": 2.2,
+    "attendance": 34,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.08,
+    "passed": true
+  },
+  {
+    "id": 391,
+    "age": 24,
+    "study_hours": 7.8,
+    "attendance": 66,
+    "sleep_hours": 4.1,
+    "previous_grade": 3.09,
+    "passed": true
+  },
+  {
+    "id": 392,
+    "age": 25,
+    "study_hours": 2.2,
+    "attendance": 95,
+    "sleep_hours": 8.7,
+    "previous_grade": 3.73,
+    "passed": true
+  },
+  {
+    "id": 393,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.85,
+    "passed": false
+  },
+  {
+    "id": 394,
+    "age": 20,
+    "study_hours": 3.3,
+    "attendance": 44,
+    "sleep_hours": 7.7,
+    "previous_grade": 3.27,
+    "passed": false
+  },
+  {
+    "id": 395,
+    "age": null,
+    "study_hours": null,
+    "attendance": 81,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.08,
+    "passed": true
+  },
+  {
+    "id": 396,
+    "age": 20,
+    "study_hours": 3.7,
+    "attendance": 96,
+    "sleep_hours": 6.8,
+    "previous_grade": 3.63,
+    "passed": false
+  },
+  {
+    "id": 397,
+    "age": null,
+    "study_hours": null,
+    "attendance": 66,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.05,
+    "passed": false
+  },
+  {
+    "id": 398,
+    "age": 19,
+    "study_hours": 5.9,
+    "attendance": 96,
+    "sleep_hours": 8.5,
+    "previous_grade": 5.91,
+    "passed": true
+  },
+  {
+    "id": 399,
+    "age": 20,
+    "study_hours": 5.6,
+    "attendance": 46,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.2,
+    "passed": false
+  },
+  {
+    "id": 400,
+    "age": 19,
+    "study_hours": 1.8,
+    "attendance": 60,
+    "sleep_hours": 6.1,
+    "previous_grade": 3.94,
+    "passed": false
+  },
+  {
+    "id": 401,
+    "age": null,
+    "study_hours": null,
+    "attendance": 88,
+    "sleep_hours": 7.0,
+    "previous_grade": 2.78,
+    "passed": true
+  },
+  {
+    "id": 402,
+    "age": 22,
+    "study_hours": 0.6,
+    "attendance": 75,
+    "sleep_hours": 5.7,
+    "previous_grade": 4.48,
+    "passed": true
+  },
+  {
+    "id": 403,
+    "age": 23,
+    "study_hours": 3.8,
+    "attendance": 80,
+    "sleep_hours": 8.1,
+    "previous_grade": 5.44,
+    "passed": true
+  },
+  {
+    "id": 404,
+    "age": null,
+    "study_hours": null,
+    "attendance": 50,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.71,
+    "passed": false
+  },
+  {
+    "id": 405,
+    "age": 23,
+    "study_hours": 2.7,
+    "attendance": 87,
+    "sleep_hours": 8.8,
+    "previous_grade": 5.13,
+    "passed": true
+  },
+  {
+    "id": 406,
+    "age": 22,
+    "study_hours": 6.6,
+    "attendance": 75,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.73,
+    "passed": true
+  },
+  {
+    "id": 407,
+    "age": 26,
+    "study_hours": 1.8,
+    "attendance": 95,
+    "sleep_hours": 4.1,
+    "previous_grade": 4.91,
+    "passed": true
+  },
+  {
+    "id": 408,
+    "age": 21,
+    "study_hours": 3.8,
+    "attendance": 62,
+    "sleep_hours": 8.2,
+    "previous_grade": 2.28,
+    "passed": true
+  },
+  {
+    "id": 409,
+    "age": 24,
+    "study_hours": 5.5,
+    "attendance": 42,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.97,
+    "passed": true
+  },
+  {
+    "id": 410,
+    "age": 24,
+    "study_hours": 6.4,
+    "attendance": 34,
+    "sleep_hours": 6.2,
+    "previous_grade": 4.39,
+    "passed": true
+  },
+  {
+    "id": 411,
+    "age": 26,
+    "study_hours": 4.3,
+    "attendance": 78,
+    "sleep_hours": 6.7,
+    "previous_grade": 5.16,
+    "passed": true
+  },
+  {
+    "id": 412,
+    "age": 26,
+    "study_hours": 5.0,
+    "attendance": 35,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.99,
+    "passed": false
+  },
+  {
+    "id": 413,
+    "age": 20,
+    "study_hours": 5.4,
+    "attendance": 30,
+    "sleep_hours": 6.8,
+    "previous_grade": 4.58,
+    "passed": true
+  },
+  {
+    "id": 414,
+    "age": 23,
+    "study_hours": 7.7,
+    "attendance": 80,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.39,
+    "passed": true
+  },
+  {
+    "id": 415,
+    "age": 26,
+    "study_hours": 4.7,
+    "attendance": 98,
+    "sleep_hours": 5.1,
+    "previous_grade": 3.5,
+    "passed": true
+  },
+  {
+    "id": 416,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 5.7,
+    "previous_grade": 2.1,
+    "passed": false
+  },
+  {
+    "id": 417,
+    "age": null,
+    "study_hours": null,
+    "attendance": 35,
+    "sleep_hours": 4.6,
+    "previous_grade": 5.76,
+    "passed": true
+  },
+  {
+    "id": 418,
+    "age": 22,
+    "study_hours": 3.1,
+    "attendance": 51,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.39,
+    "passed": false
+  },
+  {
+    "id": 419,
+    "age": 25,
+    "study_hours": 2.9,
+    "attendance": 63,
+    "sleep_hours": 4.2,
+    "previous_grade": 4.84,
+    "passed": false
+  },
+  {
+    "id": 420,
+    "age": 23,
+    "study_hours": 5.4,
+    "attendance": 46,
+    "sleep_hours": 8.6,
+    "previous_grade": 4.96,
+    "passed": true
+  },
+  {
+    "id": 421,
+    "age": 26,
+    "study_hours": 1.7,
+    "attendance": 96,
+    "sleep_hours": 6.1,
+    "previous_grade": 3.85,
+    "passed": true
+  },
+  {
+    "id": 422,
+    "age": null,
+    "study_hours": null,
+    "attendance": 80,
+    "sleep_hours": 6.0,
+    "previous_grade": 4.95,
+    "passed": true
+  },
+  {
+    "id": 423,
+    "age": null,
+    "study_hours": null,
+    "attendance": 74,
+    "sleep_hours": 4.0,
+    "previous_grade": 2.86,
+    "passed": false
+  },
+  {
+    "id": 424,
+    "age": 19,
+    "study_hours": 4.8,
+    "attendance": 93,
+    "sleep_hours": 4.9,
+    "previous_grade": 3.3,
+    "passed": true
+  },
+  {
+    "id": 425,
+    "age": 22,
+    "study_hours": 5.5,
+    "attendance": 87,
+    "sleep_hours": 6.6,
+    "previous_grade": 4.56,
+    "passed": true
+  },
+  {
+    "id": 426,
+    "age": 27,
+    "study_hours": 3.4,
+    "attendance": 39,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.38,
+    "passed": true
+  },
+  {
+    "id": 427,
+    "age": 22,
+    "study_hours": 7.4,
+    "attendance": 100,
+    "sleep_hours": 4.4,
+    "previous_grade": 2.54,
+    "passed": true
+  },
+  {
+    "id": 428,
+    "age": null,
+    "study_hours": null,
+    "attendance": 72,
+    "sleep_hours": 7.5,
+    "previous_grade": 4.04,
+    "passed": false
+  },
+  {
+    "id": 429,
+    "age": null,
+    "study_hours": null,
+    "attendance": 79,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.54,
+    "passed": true
+  },
+  {
+    "id": 430,
+    "age": null,
+    "study_hours": null,
+    "attendance": 87,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.75,
+    "passed": true
+  },
+  {
+    "id": 431,
+    "age": 27,
+    "study_hours": 0.9,
+    "attendance": 70,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.94,
+    "passed": false
+  },
+  {
+    "id": 432,
+    "age": 24,
+    "study_hours": 7.7,
+    "attendance": 89,
+    "sleep_hours": 7.3,
+    "previous_grade": 3.64,
+    "passed": true
+  },
+  {
+    "id": 433,
+    "age": 25,
+    "study_hours": 4.2,
+    "attendance": 35,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.18,
+    "passed": false
+  },
+  {
+    "id": 434,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.12,
+    "passed": true
+  },
+  {
+    "id": 435,
+    "age": 25,
+    "study_hours": 4.6,
+    "attendance": 39,
+    "sleep_hours": 6.9,
+    "previous_grade": 3.07,
+    "passed": false
+  },
+  {
+    "id": 436,
+    "age": null,
+    "study_hours": null,
+    "attendance": 30,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.77,
+    "passed": false
+  },
+  {
+    "id": 437,
+    "age": null,
+    "study_hours": null,
+    "attendance": 56,
+    "sleep_hours": 5.5,
+    "previous_grade": 6.0,
+    "passed": false
+  },
+  {
+    "id": 438,
+    "age": 23,
+    "study_hours": 7.0,
+    "attendance": 36,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.98,
+    "passed": true
+  },
+  {
+    "id": 439,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.44,
+    "passed": true
+  },
+  {
+    "id": 440,
+    "age": 24,
+    "study_hours": 1.7,
+    "attendance": 42,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.25,
+    "passed": true
+  },
+  {
+    "id": 441,
+    "age": 27,
+    "study_hours": 3.1,
+    "attendance": 60,
+    "sleep_hours": 7.0,
+    "previous_grade": 2.67,
+    "passed": true
+  },
+  {
+    "id": 442,
+    "age": 22,
+    "study_hours": 2.7,
+    "attendance": 59,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.06,
+    "passed": true
+  },
+  {
+    "id": 443,
+    "age": 19,
+    "study_hours": 1.5,
+    "attendance": 77,
+    "sleep_hours": 8.6,
+    "previous_grade": 5.97,
+    "passed": true
+  },
+  {
+    "id": 444,
+    "age": 20,
+    "study_hours": 5.8,
+    "attendance": 41,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.85,
+    "passed": true
+  },
+  {
+    "id": 445,
+    "age": null,
+    "study_hours": null,
+    "attendance": 98,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.51,
+    "passed": true
+  },
+  {
+    "id": 446,
+    "age": null,
+    "study_hours": null,
+    "attendance": 36,
+    "sleep_hours": 6.0,
+    "previous_grade": 5.0,
+    "passed": true
+  },
+  {
+    "id": 447,
+    "age": null,
+    "study_hours": null,
+    "attendance": 87,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.01,
+    "passed": true
+  },
+  {
+    "id": 448,
+    "age": 19,
+    "study_hours": 6.0,
+    "attendance": 83,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.79,
+    "passed": true
+  },
+  {
+    "id": 449,
+    "age": 26,
+    "study_hours": 3.5,
+    "attendance": 79,
+    "sleep_hours": 8.1,
+    "previous_grade": 3.98,
+    "passed": false
+  },
+  {
+    "id": 450,
+    "age": 22,
+    "study_hours": 3.0,
+    "attendance": 98,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.41,
+    "passed": true
+  },
+  {
+    "id": 451,
+    "age": 18,
+    "study_hours": 0.8,
+    "attendance": 83,
+    "sleep_hours": 4.1,
+    "previous_grade": 5.72,
+    "passed": false
+  },
+  {
+    "id": 452,
+    "age": 25,
+    "study_hours": 0.5,
+    "attendance": 79,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.75,
+    "passed": false
+  },
+  {
+    "id": 453,
+    "age": 22,
+    "study_hours": 1.7,
+    "attendance": 60,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.44,
+    "passed": false
+  },
+  {
+    "id": 454,
+    "age": 20,
+    "study_hours": 0.9,
+    "attendance": 64,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.02,
+    "passed": false
+  },
+  {
+    "id": 455,
+    "age": 19,
+    "study_hours": 5.8,
+    "attendance": 25,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.31,
+    "passed": false
+  },
+  {
+    "id": 456,
+    "age": null,
+    "study_hours": null,
+    "attendance": 26,
+    "sleep_hours": 4.0,
+    "previous_grade": 3.37,
+    "passed": false
+  },
+  {
+    "id": 457,
+    "age": 24,
+    "study_hours": 5.7,
+    "attendance": 86,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.53,
+    "passed": true
+  },
+  {
+    "id": 458,
+    "age": 19,
+    "study_hours": 1.3,
+    "attendance": 72,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.55,
+    "passed": false
+  },
+  {
+    "id": 459,
+    "age": 20,
+    "study_hours": 5.3,
+    "attendance": 43,
+    "sleep_hours": 4.3,
+    "previous_grade": 4.25,
+    "passed": true
+  },
+  {
+    "id": 460,
+    "age": 20,
+    "study_hours": 3.8,
+    "attendance": 52,
+    "sleep_hours": 7.1,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 461,
+    "age": 25,
+    "study_hours": 6.9,
+    "attendance": 36,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 462,
+    "age": 24,
+    "study_hours": 3.1,
+    "attendance": 79,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 463,
+    "age": null,
+    "study_hours": null,
+    "attendance": 61,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.76,
+    "passed": true
+  },
+  {
+    "id": 464,
+    "age": null,
+    "study_hours": null,
+    "attendance": 90,
+    "sleep_hours": 4.9,
+    "previous_grade": 3.57,
+    "passed": true
+  },
+  {
+    "id": 465,
+    "age": null,
+    "study_hours": null,
+    "attendance": 39,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.55,
+    "passed": false
+  },
+  {
+    "id": 466,
+    "age": null,
+    "study_hours": null,
+    "attendance": 65,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.44,
+    "passed": true
+  },
+  {
+    "id": 467,
+    "age": 23,
+    "study_hours": 4.6,
+    "attendance": 47,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.82,
+    "passed": true
+  },
+  {
+    "id": 468,
+    "age": 18,
+    "study_hours": 4.9,
+    "attendance": 26,
+    "sleep_hours": 5.3,
+    "previous_grade": 2.16,
+    "passed": false
+  },
+  {
+    "id": 469,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.69,
+    "passed": true
+  },
+  {
+    "id": 470,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 5.4,
+    "previous_grade": 3.24,
+    "passed": false
+  },
+  {
+    "id": 471,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.56,
+    "passed": true
+  },
+  {
+    "id": 472,
+    "age": 19,
+    "study_hours": 2.8,
+    "attendance": 80,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.39,
+    "passed": false
+  },
+  {
+    "id": 473,
+    "age": 19,
+    "study_hours": 7.4,
+    "attendance": 39,
+    "sleep_hours": 6.3,
+    "previous_grade": 4.44,
+    "passed": true
+  },
+  {
+    "id": 474,
+    "age": null,
+    "study_hours": null,
+    "attendance": 42,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.66,
+    "passed": false
+  },
+  {
+    "id": 475,
+    "age": null,
+    "study_hours": null,
+    "attendance": 58,
+    "sleep_hours": 4.8,
+    "previous_grade": 2.51,
+    "passed": true
+  },
+  {
+    "id": 476,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.12,
+    "passed": true
+  },
+  {
+    "id": 477,
+    "age": null,
+    "study_hours": null,
+    "attendance": 58,
+    "sleep_hours": 7.6,
+    "previous_grade": 4.31,
+    "passed": false
+  },
+  {
+    "id": 478,
+    "age": 25,
+    "study_hours": 4.3,
+    "attendance": 32,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.27,
+    "passed": false
+  },
+  {
+    "id": 479,
+    "age": 22,
+    "study_hours": 6.3,
+    "attendance": 98,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.46,
+    "passed": true
+  },
+  {
+    "id": 480,
+    "age": 18,
+    "study_hours": 0.8,
+    "attendance": 26,
+    "sleep_hours": 5.2,
+    "previous_grade": 3.89,
+    "passed": false
+  },
+  {
+    "id": 481,
+    "age": 20,
+    "study_hours": 1.8,
+    "attendance": 29,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.66,
+    "passed": false
+  },
+  {
+    "id": 482,
+    "age": null,
+    "study_hours": null,
+    "attendance": 56,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.88,
+    "passed": false
+  },
+  {
+    "id": 483,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 6.5,
+    "previous_grade": 5.61,
+    "passed": false
+  },
+  {
+    "id": 484,
+    "age": 26,
+    "study_hours": 7.9,
+    "attendance": 76,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.86,
+    "passed": true
+  },
+  {
+    "id": 485,
+    "age": null,
+    "study_hours": null,
+    "attendance": 95,
+    "sleep_hours": 6.3,
+    "previous_grade": 3.48,
+    "passed": false
+  },
+  {
+    "id": 486,
+    "age": null,
+    "study_hours": null,
+    "attendance": 56,
+    "sleep_hours": 6.3,
+    "previous_grade": 4.37,
+    "passed": true
+  },
+  {
+    "id": 487,
+    "age": 21,
+    "study_hours": 6.0,
+    "attendance": 94,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.98,
+    "passed": false
+  },
+  {
+    "id": 488,
+    "age": 24,
+    "study_hours": 0.7,
+    "attendance": 94,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.36,
+    "passed": true
+  },
+  {
+    "id": 489,
+    "age": 23,
+    "study_hours": 0.5,
+    "attendance": 73,
+    "sleep_hours": 8.2,
+    "previous_grade": 4.91,
+    "passed": false
+  },
+  {
+    "id": 490,
+    "age": null,
+    "study_hours": null,
+    "attendance": 78,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.24,
+    "passed": true
+  },
+  {
+    "id": 491,
+    "age": null,
+    "study_hours": null,
+    "attendance": 54,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.08,
+    "passed": false
+  },
+  {
+    "id": 492,
+    "age": null,
+    "study_hours": null,
+    "attendance": 35,
+    "sleep_hours": 6.9,
+    "previous_grade": 4.02,
+    "passed": false
+  },
+  {
+    "id": 493,
+    "age": 24,
+    "study_hours": 1.1,
+    "attendance": 97,
+    "sleep_hours": 4.3,
+    "previous_grade": 4.65,
+    "passed": false
+  },
+  {
+    "id": 494,
+    "age": 22,
+    "study_hours": 2.5,
+    "attendance": 65,
+    "sleep_hours": 8.6,
+    "previous_grade": 3.57,
+    "passed": true
+  },
+  {
+    "id": 495,
+    "age": 23,
+    "study_hours": 2.9,
+    "attendance": 59,
+    "sleep_hours": 5.2,
+    "previous_grade": 5.77,
+    "passed": false
+  },
+  {
+    "id": 496,
+    "age": 27,
+    "study_hours": 1.3,
+    "attendance": 38,
+    "sleep_hours": 4.8,
+    "previous_grade": 3.86,
+    "passed": false
+  },
+  {
+    "id": 497,
+    "age": null,
+    "study_hours": null,
+    "attendance": 51,
+    "sleep_hours": 6.3,
+    "previous_grade": 3.85,
+    "passed": true
+  },
+  {
+    "id": 498,
+    "age": null,
+    "study_hours": null,
+    "attendance": 63,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.79,
+    "passed": false
+  },
+  {
+    "id": 499,
+    "age": 23,
+    "study_hours": 1.6,
+    "attendance": 56,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.58,
+    "passed": false
+  },
+  {
+    "id": 500,
+    "age": 22,
+    "study_hours": 2.5,
+    "attendance": 47,
+    "sleep_hours": 4.2,
+    "previous_grade": 3.62,
+    "passed": false
+  },
+  {
+    "id": 501,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.18,
+    "passed": false
+  },
+  {
+    "id": 502,
+    "age": 18,
+    "study_hours": 6.7,
+    "attendance": 53,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.29,
+    "passed": true
+  },
+  {
+    "id": 503,
+    "age": 19,
+    "study_hours": 4.9,
+    "attendance": 58,
+    "sleep_hours": 8.6,
+    "previous_grade": 2.3,
+    "passed": true
+  },
+  {
+    "id": 504,
+    "age": 21,
+    "study_hours": 7.3,
+    "attendance": 81,
+    "sleep_hours": 8.0,
+    "previous_grade": 2.37,
+    "passed": true
+  },
+  {
+    "id": 505,
+    "age": 23,
+    "study_hours": 1.4,
+    "attendance": 84,
+    "sleep_hours": 4.3,
+    "previous_grade": 5.7,
+    "passed": true
+  },
+  {
+    "id": 506,
+    "age": 24,
+    "study_hours": 4.2,
+    "attendance": 73,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.69,
+    "passed": false
+  },
+  {
+    "id": 507,
+    "age": 20,
+    "study_hours": 2.6,
+    "attendance": 82,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.14,
+    "passed": false
+  },
+  {
+    "id": 508,
+    "age": null,
+    "study_hours": null,
+    "attendance": 88,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.2,
+    "passed": false
+  },
+  {
+    "id": 509,
+    "age": null,
+    "study_hours": null,
+    "attendance": 78,
+    "sleep_hours": 5.0,
+    "previous_grade": 5.54,
+    "passed": true
+  },
+  {
+    "id": 510,
+    "age": null,
+    "study_hours": null,
+    "attendance": 73,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.44,
+    "passed": true
+  },
+  {
+    "id": 511,
+    "age": 25,
+    "study_hours": 3.1,
+    "attendance": 97,
+    "sleep_hours": 6.5,
+    "previous_grade": 3.55,
+    "passed": false
+  },
+  {
+    "id": 512,
+    "age": 23,
+    "study_hours": 5.0,
+    "attendance": 28,
+    "sleep_hours": 8.5,
+    "previous_grade": 5.11,
+    "passed": false
+  },
+  {
+    "id": 513,
+    "age": 25,
+    "study_hours": 4.5,
+    "attendance": 99,
+    "sleep_hours": 9.0,
+    "previous_grade": 5.9,
+    "passed": true
+  },
+  {
+    "id": 514,
+    "age": null,
+    "study_hours": null,
+    "attendance": 32,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.79,
+    "passed": false
+  },
+  {
+    "id": 515,
+    "age": 24,
+    "study_hours": 3.2,
+    "attendance": 47,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.37,
+    "passed": true
+  },
+  {
+    "id": 516,
+    "age": null,
+    "study_hours": null,
+    "attendance": 28,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.41,
+    "passed": true
+  },
+  {
+    "id": 517,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 8.2,
+    "previous_grade": 5.24,
+    "passed": true
+  },
+  {
+    "id": 518,
+    "age": 26,
+    "study_hours": 2.8,
+    "attendance": 87,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.22,
+    "passed": false
+  },
+  {
+    "id": 519,
+    "age": 18,
+    "study_hours": 4.4,
+    "attendance": 25,
+    "sleep_hours": 5.7,
+    "previous_grade": 4.46,
+    "passed": true
+  },
+  {
+    "id": 520,
+    "age": 23,
+    "study_hours": 5.9,
+    "attendance": 66,
+    "sleep_hours": 4.3,
+    "previous_grade": 2.59,
+    "passed": true
+  },
+  {
+    "id": 521,
+    "age": 20,
+    "study_hours": 6.3,
+    "attendance": 92,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.84,
+    "passed": true
+  },
+  {
+    "id": 522,
+    "age": 24,
+    "study_hours": 4.9,
+    "attendance": 68,
+    "sleep_hours": 5.5,
+    "previous_grade": 2.55,
+    "passed": false
+  },
+  {
+    "id": 523,
+    "age": 24,
+    "study_hours": 6.4,
+    "attendance": 87,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.7,
+    "passed": true
+  },
+  {
+    "id": 524,
+    "age": 27,
+    "study_hours": 6.4,
+    "attendance": 53,
+    "sleep_hours": 7.3,
+    "previous_grade": 5.26,
+    "passed": true
+  },
+  {
+    "id": 525,
+    "age": 22,
+    "study_hours": 1.5,
+    "attendance": 25,
+    "sleep_hours": 8.7,
+    "previous_grade": 5.79,
+    "passed": false
+  },
+  {
+    "id": 526,
+    "age": 27,
+    "study_hours": 0.7,
+    "attendance": 65,
+    "sleep_hours": 8.6,
+    "previous_grade": 5.87,
+    "passed": false
+  },
+  {
+    "id": 527,
+    "age": 27,
+    "study_hours": 1.3,
+    "attendance": 88,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.98,
+    "passed": false
+  },
+  {
+    "id": 528,
+    "age": null,
+    "study_hours": null,
+    "attendance": 36,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.68,
+    "passed": false
+  },
+  {
+    "id": 529,
+    "age": 23,
+    "study_hours": 3.8,
+    "attendance": 58,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.77,
+    "passed": false
+  },
+  {
+    "id": 530,
+    "age": 19,
+    "study_hours": 5.9,
+    "attendance": 31,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.93,
+    "passed": true
+  },
+  {
+    "id": 531,
+    "age": 24,
+    "study_hours": 4.2,
+    "attendance": 73,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.5,
+    "passed": true
+  },
+  {
+    "id": 532,
+    "age": 27,
+    "study_hours": 5.4,
+    "attendance": 53,
+    "sleep_hours": 4.8,
+    "previous_grade": 2.29,
+    "passed": true
+  },
+  {
+    "id": 533,
+    "age": 22,
+    "study_hours": 0.7,
+    "attendance": 58,
+    "sleep_hours": 8.8,
+    "previous_grade": 2.3,
+    "passed": false
+  },
+  {
+    "id": 534,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 6.7,
+    "previous_grade": 5.59,
+    "passed": false
+  },
+  {
+    "id": 535,
+    "age": null,
+    "study_hours": null,
+    "attendance": 86,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.73,
+    "passed": true
+  },
+  {
+    "id": 536,
+    "age": 27,
+    "study_hours": 7.2,
+    "attendance": 45,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.32,
+    "passed": true
+  },
+  {
+    "id": 537,
+    "age": 24,
+    "study_hours": 5.7,
+    "attendance": 94,
+    "sleep_hours": 5.3,
+    "previous_grade": 3.13,
+    "passed": true
+  },
+  {
+    "id": 538,
+    "age": 18,
+    "study_hours": 3.4,
+    "attendance": 95,
+    "sleep_hours": 8.2,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 539,
+    "age": 24,
+    "study_hours": 1.2,
+    "attendance": 86,
+    "sleep_hours": 5.0,
+    "previous_grade": 2.1,
+    "passed": false
+  },
+  {
+    "id": 540,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 8.2,
+    "previous_grade": 3.23,
+    "passed": true
+  },
+  {
+    "id": 541,
+    "age": 25,
+    "study_hours": 7.2,
+    "attendance": 58,
+    "sleep_hours": 4.5,
+    "previous_grade": 4.18,
+    "passed": true
+  },
+  {
+    "id": 542,
+    "age": 24,
+    "study_hours": 3.3,
+    "attendance": 82,
+    "sleep_hours": 4.2,
+    "previous_grade": 3.76,
+    "passed": false
+  },
+  {
+    "id": 543,
+    "age": 22,
+    "study_hours": 4.7,
+    "attendance": 44,
+    "sleep_hours": 7.8,
+    "previous_grade": 4.67,
+    "passed": false
+  },
+  {
+    "id": 544,
+    "age": null,
+    "study_hours": null,
+    "attendance": 77,
+    "sleep_hours": 8.9,
+    "previous_grade": 4.36,
+    "passed": true
+  },
+  {
+    "id": 545,
+    "age": null,
+    "study_hours": null,
+    "attendance": 78,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.75,
+    "passed": true
+  },
+  {
+    "id": 546,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.58,
+    "passed": true
+  },
+  {
+    "id": 547,
+    "age": 18,
+    "study_hours": 4.3,
+    "attendance": 91,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.71,
+    "passed": true
+  },
+  {
+    "id": 548,
+    "age": 19,
+    "study_hours": 7.6,
+    "attendance": 82,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.94,
+    "passed": true
+  },
+  {
+    "id": 549,
+    "age": 21,
+    "study_hours": 1.4,
+    "attendance": 79,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.73,
+    "passed": false
+  },
+  {
+    "id": 550,
+    "age": 20,
+    "study_hours": 6.8,
+    "attendance": 58,
+    "sleep_hours": 5.6,
+    "previous_grade": 4.91,
+    "passed": true
+  },
+  {
+    "id": 551,
+    "age": null,
+    "study_hours": null,
+    "attendance": 75,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.43,
+    "passed": true
+  },
+  {
+    "id": 552,
+    "age": 18,
+    "study_hours": 6.4,
+    "attendance": 100,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.68,
+    "passed": true
+  },
+  {
+    "id": 553,
+    "age": null,
+    "study_hours": null,
+    "attendance": 99,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.76,
+    "passed": true
+  },
+  {
+    "id": 554,
+    "age": 27,
+    "study_hours": 6.3,
+    "attendance": 61,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.52,
+    "passed": true
+  },
+  {
+    "id": 555,
+    "age": 22,
+    "study_hours": 3.4,
+    "attendance": 87,
+    "sleep_hours": 6.9,
+    "previous_grade": 3.89,
+    "passed": false
+  },
+  {
+    "id": 556,
+    "age": null,
+    "study_hours": null,
+    "attendance": 76,
+    "sleep_hours": 4.2,
+    "previous_grade": 5.56,
+    "passed": false
+  },
+  {
+    "id": 557,
+    "age": 21,
+    "study_hours": 0.9,
+    "attendance": 85,
+    "sleep_hours": 8.6,
+    "previous_grade": 5.59,
+    "passed": false
+  },
+  {
+    "id": 558,
+    "age": 22,
+    "study_hours": 2.8,
+    "attendance": 87,
+    "sleep_hours": 8.3,
+    "previous_grade": 4.74,
+    "passed": true
+  },
+  {
+    "id": 559,
+    "age": 21,
+    "study_hours": 1.5,
+    "attendance": 81,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.28,
+    "passed": true
+  },
+  {
+    "id": 560,
+    "age": 27,
+    "study_hours": 5.3,
+    "attendance": 49,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.65,
+    "passed": true
+  },
+  {
+    "id": 561,
+    "age": 25,
+    "study_hours": 6.2,
+    "attendance": 72,
+    "sleep_hours": 8.1,
+    "previous_grade": 4.06,
+    "passed": true
+  },
+  {
+    "id": 562,
+    "age": 22,
+    "study_hours": 5.8,
+    "attendance": 76,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.41,
+    "passed": true
+  },
+  {
+    "id": 563,
+    "age": 18,
+    "study_hours": 1.8,
+    "attendance": 50,
+    "sleep_hours": 8.2,
+    "previous_grade": 3.0,
+    "passed": false
+  },
+  {
+    "id": 564,
+    "age": 23,
+    "study_hours": 5.8,
+    "attendance": 60,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.86,
+    "passed": true
+  },
+  {
+    "id": 565,
+    "age": 19,
+    "study_hours": 5.6,
+    "attendance": 55,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.38,
+    "passed": false
+  },
+  {
+    "id": 566,
+    "age": 25,
+    "study_hours": 4.9,
+    "attendance": 69,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.35,
+    "passed": true
+  },
+  {
+    "id": 567,
+    "age": null,
+    "study_hours": null,
+    "attendance": 74,
+    "sleep_hours": 4.2,
+    "previous_grade": 5.42,
+    "passed": true
+  },
+  {
+    "id": 568,
+    "age": 21,
+    "study_hours": 6.9,
+    "attendance": 53,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.08,
+    "passed": true
+  },
+  {
+    "id": 569,
+    "age": 18,
+    "study_hours": 7.0,
+    "attendance": 26,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.53,
+    "passed": false
+  },
+  {
+    "id": 570,
+    "age": 18,
+    "study_hours": 2.2,
+    "attendance": 64,
+    "sleep_hours": 7.6,
+    "previous_grade": 4.84,
+    "passed": false
+  },
+  {
+    "id": 571,
+    "age": 24,
+    "study_hours": 6.9,
+    "attendance": 83,
+    "sleep_hours": 5.3,
+    "previous_grade": 3.87,
+    "passed": true
+  },
+  {
+    "id": 572,
+    "age": null,
+    "study_hours": null,
+    "attendance": 38,
+    "sleep_hours": 4.0,
+    "previous_grade": 6.0,
+    "passed": true
+  },
+  {
+    "id": 573,
+    "age": null,
+    "study_hours": null,
+    "attendance": 61,
+    "sleep_hours": 5.5,
+    "previous_grade": 2.43,
+    "passed": false
+  },
+  {
+    "id": 574,
+    "age": 22,
+    "study_hours": 5.3,
+    "attendance": 60,
+    "sleep_hours": 5.3,
+    "previous_grade": 4.84,
+    "passed": true
+  },
+  {
+    "id": 575,
+    "age": null,
+    "study_hours": null,
+    "attendance": 91,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.6,
+    "passed": true
+  },
+  {
+    "id": 576,
+    "age": 27,
+    "study_hours": 3.5,
+    "attendance": 65,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.89,
+    "passed": true
+  },
+  {
+    "id": 577,
+    "age": 22,
+    "study_hours": 2.4,
+    "attendance": 78,
+    "sleep_hours": 6.0,
+    "previous_grade": 4.95,
+    "passed": true
+  },
+  {
+    "id": 578,
+    "age": 27,
+    "study_hours": 6.6,
+    "attendance": 68,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.89,
+    "passed": true
+  },
+  {
+    "id": 579,
+    "age": 25,
+    "study_hours": 7.3,
+    "attendance": 70,
+    "sleep_hours": 6.5,
+    "previous_grade": 5.38,
+    "passed": true
+  },
+  {
+    "id": 580,
+    "age": 26,
+    "study_hours": 1.9,
+    "attendance": 37,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.96,
+    "passed": false
+  },
+  {
+    "id": 581,
+    "age": 26,
+    "study_hours": 6.2,
+    "attendance": 48,
+    "sleep_hours": 8.7,
+    "previous_grade": 5.6,
+    "passed": true
+  },
+  {
+    "id": 582,
+    "age": 21,
+    "study_hours": 3.2,
+    "attendance": 64,
+    "sleep_hours": 6.1,
+    "previous_grade": 5.55,
+    "passed": true
+  },
+  {
+    "id": 583,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 6.4,
+    "previous_grade": 5.47,
+    "passed": false
+  },
+  {
+    "id": 584,
+    "age": 27,
+    "study_hours": 1.0,
+    "attendance": 49,
+    "sleep_hours": 6.5,
+    "previous_grade": 5.47,
+    "passed": false
+  },
+  {
+    "id": 585,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 4.7,
+    "previous_grade": 2.8,
+    "passed": false
+  },
+  {
+    "id": 586,
+    "age": 27,
+    "study_hours": 7.2,
+    "attendance": 83,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.45,
+    "passed": true
+  },
+  {
+    "id": 587,
+    "age": 19,
+    "study_hours": 4.2,
+    "attendance": 47,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.23,
+    "passed": false
+  },
+  {
+    "id": 588,
+    "age": null,
+    "study_hours": null,
+    "attendance": 46,
+    "sleep_hours": 6.9,
+    "previous_grade": 2.63,
+    "passed": true
+  },
+  {
+    "id": 589,
+    "age": 19,
+    "study_hours": 1.5,
+    "attendance": 80,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.61,
+    "passed": true
+  },
+  {
+    "id": 590,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 5.0,
+    "previous_grade": 3.49,
+    "passed": false
+  },
+  {
+    "id": 591,
+    "age": 23,
+    "study_hours": 6.2,
+    "attendance": 92,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.71,
+    "passed": true
+  },
+  {
+    "id": 592,
+    "age": null,
+    "study_hours": null,
+    "attendance": 69,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.41,
+    "passed": false
+  },
+  {
+    "id": 593,
+    "age": 22,
+    "study_hours": 1.8,
+    "attendance": 30,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.16,
+    "passed": false
+  },
+  {
+    "id": 594,
+    "age": null,
+    "study_hours": null,
+    "attendance": 80,
+    "sleep_hours": 8.4,
+    "previous_grade": 5.98,
+    "passed": true
+  },
+  {
+    "id": 595,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 4.8,
+    "previous_grade": 5.63,
+    "passed": true
+  },
+  {
+    "id": 596,
+    "age": 18,
+    "study_hours": 2.2,
+    "attendance": 41,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.09,
+    "passed": false
+  },
+  {
+    "id": 597,
+    "age": 19,
+    "study_hours": 3.2,
+    "attendance": 29,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.56,
+    "passed": true
+  },
+  {
+    "id": 598,
+    "age": null,
+    "study_hours": null,
+    "attendance": 31,
+    "sleep_hours": 7.3,
+    "previous_grade": 4.61,
+    "passed": false
+  },
+  {
+    "id": 599,
+    "age": 19,
+    "study_hours": 3.6,
+    "attendance": 73,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.01,
+    "passed": true
+  },
+  {
+    "id": 600,
+    "age": null,
+    "study_hours": null,
+    "attendance": 26,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.65,
+    "passed": true
+  },
+  {
+    "id": 601,
+    "age": 22,
+    "study_hours": 5.2,
+    "attendance": 42,
+    "sleep_hours": 6.1,
+    "previous_grade": 5.59,
+    "passed": true
+  },
+  {
+    "id": 602,
+    "age": 27,
+    "study_hours": 1.4,
+    "attendance": 39,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.99,
+    "passed": false
+  },
+  {
+    "id": 603,
+    "age": 22,
+    "study_hours": 6.7,
+    "attendance": 50,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.64,
+    "passed": false
+  },
+  {
+    "id": 604,
+    "age": 26,
+    "study_hours": 4.2,
+    "attendance": 51,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.92,
+    "passed": false
+  },
+  {
+    "id": 605,
+    "age": 18,
+    "study_hours": 5.5,
+    "attendance": 39,
+    "sleep_hours": 8.2,
+    "previous_grade": 4.68,
+    "passed": false
+  },
+  {
+    "id": 606,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.41,
+    "passed": false
+  },
+  {
+    "id": 607,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 5.3,
+    "previous_grade": 2.2,
+    "passed": true
+  },
+  {
+    "id": 608,
+    "age": 18,
+    "study_hours": 6.9,
+    "attendance": 71,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.25,
+    "passed": true
+  },
+  {
+    "id": 609,
+    "age": 19,
+    "study_hours": 6.9,
+    "attendance": 30,
+    "sleep_hours": 4.0,
+    "previous_grade": 2.55,
+    "passed": true
+  },
+  {
+    "id": 610,
+    "age": 23,
+    "study_hours": 3.2,
+    "attendance": 81,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.07,
+    "passed": true
+  },
+  {
+    "id": 611,
+    "age": 23,
+    "study_hours": 6.6,
+    "attendance": 48,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.6,
+    "passed": true
+  },
+  {
+    "id": 612,
+    "age": 24,
+    "study_hours": 5.7,
+    "attendance": 86,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.6,
+    "passed": true
+  },
+  {
+    "id": 613,
+    "age": 19,
+    "study_hours": 1.5,
+    "attendance": 32,
+    "sleep_hours": 8.9,
+    "previous_grade": 5.38,
+    "passed": false
+  },
+  {
+    "id": 614,
+    "age": 27,
+    "study_hours": 4.1,
+    "attendance": 97,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.73,
+    "passed": true
+  },
+  {
+    "id": 615,
+    "age": 23,
+    "study_hours": 5.1,
+    "attendance": 41,
+    "sleep_hours": 6.4,
+    "previous_grade": 3.95,
+    "passed": true
+  },
+  {
+    "id": 616,
+    "age": 25,
+    "study_hours": 0.8,
+    "attendance": 58,
+    "sleep_hours": 7.3,
+    "previous_grade": 2.05,
+    "passed": false
+  },
+  {
+    "id": 617,
+    "age": 26,
+    "study_hours": 6.3,
+    "attendance": 98,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.9,
+    "passed": true
+  },
+  {
+    "id": 618,
+    "age": 23,
+    "study_hours": 4.4,
+    "attendance": 37,
+    "sleep_hours": 6.2,
+    "previous_grade": 4.91,
+    "passed": false
+  },
+  {
+    "id": 619,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.45,
+    "passed": false
+  },
+  {
+    "id": 620,
+    "age": 20,
+    "study_hours": 4.3,
+    "attendance": 85,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.48,
+    "passed": true
+  },
+  {
+    "id": 621,
+    "age": 25,
+    "study_hours": 2.9,
+    "attendance": 67,
+    "sleep_hours": 8.9,
+    "previous_grade": 2.2,
+    "passed": false
+  },
+  {
+    "id": 622,
+    "age": 24,
+    "study_hours": 3.5,
+    "attendance": 55,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.78,
+    "passed": false
+  },
+  {
+    "id": 623,
+    "age": 19,
+    "study_hours": 6.9,
+    "attendance": 82,
+    "sleep_hours": 5.6,
+    "previous_grade": 5.92,
+    "passed": true
+  },
+  {
+    "id": 624,
+    "age": 18,
+    "study_hours": 1.3,
+    "attendance": 77,
+    "sleep_hours": 4.2,
+    "previous_grade": 4.2,
+    "passed": true
+  },
+  {
+    "id": 625,
+    "age": null,
+    "study_hours": null,
+    "attendance": 63,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.25,
+    "passed": true
+  },
+  {
+    "id": 626,
+    "age": 25,
+    "study_hours": 7.6,
+    "attendance": 71,
+    "sleep_hours": 8.1,
+    "previous_grade": 5.27,
+    "passed": true
+  },
+  {
+    "id": 627,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.45,
+    "passed": true
+  },
+  {
+    "id": 628,
+    "age": null,
+    "study_hours": null,
+    "attendance": 53,
+    "sleep_hours": 4.0,
+    "previous_grade": 3.42,
+    "passed": true
+  },
+  {
+    "id": 629,
+    "age": 22,
+    "study_hours": 4.6,
+    "attendance": 72,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.18,
+    "passed": false
+  },
+  {
+    "id": 630,
+    "age": 20,
+    "study_hours": 6.7,
+    "attendance": 77,
+    "sleep_hours": 4.5,
+    "previous_grade": 4.44,
+    "passed": true
+  },
+  {
+    "id": 631,
+    "age": 24,
+    "study_hours": 2.1,
+    "attendance": 49,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.43,
+    "passed": false
+  },
+  {
+    "id": 632,
+    "age": null,
+    "study_hours": null,
+    "attendance": 82,
+    "sleep_hours": 6.3,
+    "previous_grade": 4.36,
+    "passed": false
+  },
+  {
+    "id": 633,
+    "age": 25,
+    "study_hours": 0.5,
+    "attendance": 31,
+    "sleep_hours": 6.8,
+    "previous_grade": 3.73,
+    "passed": false
+  },
+  {
+    "id": 634,
+    "age": null,
+    "study_hours": null,
+    "attendance": 47,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.69,
+    "passed": true
+  },
+  {
+    "id": 635,
+    "age": 19,
+    "study_hours": 3.4,
+    "attendance": 66,
+    "sleep_hours": 6.5,
+    "previous_grade": 3.54,
+    "passed": true
+  },
+  {
+    "id": 636,
+    "age": null,
+    "study_hours": null,
+    "attendance": 68,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.81,
+    "passed": false
+  },
+  {
+    "id": 637,
+    "age": 24,
+    "study_hours": 5.0,
+    "attendance": 90,
+    "sleep_hours": 5.5,
+    "previous_grade": 4.81,
+    "passed": true
+  },
+  {
+    "id": 638,
+    "age": 26,
+    "study_hours": 5.2,
+    "attendance": 50,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.86,
+    "passed": true
+  },
+  {
+    "id": 639,
+    "age": 20,
+    "study_hours": 7.9,
+    "attendance": 47,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.78,
+    "passed": true
+  },
+  {
+    "id": 640,
+    "age": 19,
+    "study_hours": 6.2,
+    "attendance": 96,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.28,
+    "passed": true
+  },
+  {
+    "id": 641,
+    "age": 24,
+    "study_hours": 5.6,
+    "attendance": 93,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.39,
+    "passed": true
+  },
+  {
+    "id": 642,
+    "age": null,
+    "study_hours": null,
+    "attendance": 73,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.68,
+    "passed": false
+  },
+  {
+    "id": 643,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 4.7,
+    "previous_grade": 2.25,
+    "passed": true
+  },
+  {
+    "id": 644,
+    "age": 21,
+    "study_hours": 6.2,
+    "attendance": 29,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.81,
+    "passed": true
+  },
+  {
+    "id": 645,
+    "age": 26,
+    "study_hours": 7.0,
+    "attendance": 96,
+    "sleep_hours": 5.9,
+    "previous_grade": 4.04,
+    "passed": true
+  },
+  {
+    "id": 646,
+    "age": 22,
+    "study_hours": 5.7,
+    "attendance": 31,
+    "sleep_hours": 8.6,
+    "previous_grade": 3.55,
+    "passed": true
+  },
+  {
+    "id": 647,
+    "age": 23,
+    "study_hours": 7.7,
+    "attendance": 31,
+    "sleep_hours": 4.1,
+    "previous_grade": 3.01,
+    "passed": true
+  },
+  {
+    "id": 648,
+    "age": null,
+    "study_hours": null,
+    "attendance": 72,
+    "sleep_hours": 7.8,
+    "previous_grade": 4.19,
+    "passed": true
+  },
+  {
+    "id": 649,
+    "age": null,
+    "study_hours": null,
+    "attendance": 47,
+    "sleep_hours": 8.9,
+    "previous_grade": 2.3,
+    "passed": false
+  },
+  {
+    "id": 650,
+    "age": 26,
+    "study_hours": 1.4,
+    "attendance": 30,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.23,
+    "passed": false
+  },
+  {
+    "id": 651,
+    "age": 27,
+    "study_hours": 6.8,
+    "attendance": 25,
+    "sleep_hours": 5.7,
+    "previous_grade": 4.84,
+    "passed": false
+  },
+  {
+    "id": 652,
+    "age": 20,
+    "study_hours": 7.5,
+    "attendance": 31,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.5,
+    "passed": true
+  },
+  {
+    "id": 653,
+    "age": 22,
+    "study_hours": 4.2,
+    "attendance": 98,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.29,
+    "passed": true
+  },
+  {
+    "id": 654,
+    "age": null,
+    "study_hours": null,
+    "attendance": 48,
+    "sleep_hours": 6.6,
+    "previous_grade": 5.15,
+    "passed": false
+  },
+  {
+    "id": 655,
+    "age": 26,
+    "study_hours": 4.5,
+    "attendance": 36,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.53,
+    "passed": true
+  },
+  {
+    "id": 656,
+    "age": 23,
+    "study_hours": 3.2,
+    "attendance": 52,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.47,
+    "passed": false
+  },
+  {
+    "id": 657,
+    "age": 26,
+    "study_hours": 6.7,
+    "attendance": 26,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.38,
+    "passed": false
+  },
+  {
+    "id": 658,
+    "age": 27,
+    "study_hours": 7.4,
+    "attendance": 56,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.73,
+    "passed": true
+  },
+  {
+    "id": 659,
+    "age": 19,
+    "study_hours": 3.4,
+    "attendance": 94,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.1,
+    "passed": false
+  },
+  {
+    "id": 660,
+    "age": 23,
+    "study_hours": 4.4,
+    "attendance": 90,
+    "sleep_hours": 6.2,
+    "previous_grade": 2.18,
+    "passed": true
+  },
+  {
+    "id": 661,
+    "age": null,
+    "study_hours": null,
+    "attendance": 35,
+    "sleep_hours": 8.7,
+    "previous_grade": 2.67,
+    "passed": false
+  },
+  {
+    "id": 662,
+    "age": 26,
+    "study_hours": 4.5,
+    "attendance": 33,
+    "sleep_hours": 5.1,
+    "previous_grade": 4.52,
+    "passed": false
+  },
+  {
+    "id": 663,
+    "age": 24,
+    "study_hours": 6.8,
+    "attendance": 51,
+    "sleep_hours": 6.7,
+    "previous_grade": 4.81,
+    "passed": true
+  },
+  {
+    "id": 664,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 7.7,
+    "previous_grade": 2.62,
+    "passed": false
+  },
+  {
+    "id": 665,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 4.3,
+    "previous_grade": 5.18,
+    "passed": false
+  },
+  {
+    "id": 666,
+    "age": 27,
+    "study_hours": 6.7,
+    "attendance": 58,
+    "sleep_hours": 6.0,
+    "previous_grade": 3.8,
+    "passed": true
+  },
+  {
+    "id": 667,
+    "age": 23,
+    "study_hours": 0.6,
+    "attendance": 40,
+    "sleep_hours": 6.7,
+    "previous_grade": 4.57,
+    "passed": false
+  },
+  {
+    "id": 668,
+    "age": 27,
+    "study_hours": 0.8,
+    "attendance": 34,
+    "sleep_hours": 5.8,
+    "previous_grade": 4.01,
+    "passed": false
+  },
+  {
+    "id": 669,
+    "age": 22,
+    "study_hours": 5.0,
+    "attendance": 61,
+    "sleep_hours": 7.8,
+    "previous_grade": 3.75,
+    "passed": false
+  },
+  {
+    "id": 670,
+    "age": 18,
+    "study_hours": 4.1,
+    "attendance": 93,
+    "sleep_hours": 5.1,
+    "previous_grade": 4.99,
+    "passed": true
+  },
+  {
+    "id": 671,
+    "age": 26,
+    "study_hours": 2.7,
+    "attendance": 43,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.55,
+    "passed": true
+  },
+  {
+    "id": 672,
+    "age": 23,
+    "study_hours": 7.7,
+    "attendance": 26,
+    "sleep_hours": 6.8,
+    "previous_grade": 4.22,
+    "passed": false
+  },
+  {
+    "id": 673,
+    "age": 18,
+    "study_hours": 4.8,
+    "attendance": 75,
+    "sleep_hours": 6.7,
+    "previous_grade": 5.79,
+    "passed": true
+  },
+  {
+    "id": 674,
+    "age": 23,
+    "study_hours": 2.1,
+    "attendance": 90,
+    "sleep_hours": 4.7,
+    "previous_grade": 2.74,
+    "passed": false
+  },
+  {
+    "id": 675,
+    "age": 22,
+    "study_hours": 2.0,
+    "attendance": 48,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.27,
+    "passed": false
+  },
+  {
+    "id": 676,
+    "age": 26,
+    "study_hours": 4.0,
+    "attendance": 95,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.69,
+    "passed": true
+  },
+  {
+    "id": 677,
+    "age": 21,
+    "study_hours": 5.9,
+    "attendance": 87,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.43,
+    "passed": true
+  },
+  {
+    "id": 678,
+    "age": 21,
+    "study_hours": 1.3,
+    "attendance": 33,
+    "sleep_hours": 8.5,
+    "previous_grade": 3.27,
+    "passed": false
+  },
+  {
+    "id": 679,
+    "age": 27,
+    "study_hours": 5.4,
+    "attendance": 99,
+    "sleep_hours": 4.8,
+    "previous_grade": 4.27,
+    "passed": true
+  },
+  {
+    "id": 680,
+    "age": 24,
+    "study_hours": 1.8,
+    "attendance": 65,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.89,
+    "passed": false
+  },
+  {
+    "id": 681,
+    "age": 24,
+    "study_hours": 2.6,
+    "attendance": 71,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.93,
+    "passed": true
+  },
+  {
+    "id": 682,
+    "age": 25,
+    "study_hours": 3.8,
+    "attendance": 64,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.44,
+    "passed": false
+  },
+  {
+    "id": 683,
+    "age": 19,
+    "study_hours": 6.8,
+    "attendance": 42,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.79,
+    "passed": true
+  },
+  {
+    "id": 684,
+    "age": 19,
+    "study_hours": 6.0,
+    "attendance": 27,
+    "sleep_hours": 8.2,
+    "previous_grade": 4.53,
+    "passed": true
+  },
+  {
+    "id": 685,
+    "age": 27,
+    "study_hours": 3.5,
+    "attendance": 100,
+    "sleep_hours": 5.1,
+    "previous_grade": 2.15,
+    "passed": false
+  },
+  {
+    "id": 686,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 5.8,
+    "previous_grade": 2.89,
+    "passed": false
+  },
+  {
+    "id": 687,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.59,
+    "passed": false
+  },
+  {
+    "id": 688,
+    "age": 21,
+    "study_hours": 6.9,
+    "attendance": 46,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.56,
+    "passed": false
+  },
+  {
+    "id": 689,
+    "age": 27,
+    "study_hours": 7.6,
+    "attendance": 43,
+    "sleep_hours": 7.7,
+    "previous_grade": 3.93,
+    "passed": true
+  },
+  {
+    "id": 690,
+    "age": null,
+    "study_hours": null,
+    "attendance": 54,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.48,
+    "passed": false
+  },
+  {
+    "id": 691,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 5.9,
+    "previous_grade": 5.67,
+    "passed": true
+  },
+  {
+    "id": 692,
+    "age": 18,
+    "study_hours": 7.9,
+    "attendance": 66,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.87,
+    "passed": true
+  },
+  {
+    "id": 693,
+    "age": 22,
+    "study_hours": 6.8,
+    "attendance": 58,
+    "sleep_hours": 6.9,
+    "previous_grade": 4.28,
+    "passed": true
+  },
+  {
+    "id": 694,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.51,
+    "passed": true
+  },
+  {
+    "id": 695,
+    "age": null,
+    "study_hours": null,
+    "attendance": 69,
+    "sleep_hours": 6.4,
+    "previous_grade": 3.93,
+    "passed": true
+  },
+  {
+    "id": 696,
+    "age": 26,
+    "study_hours": 7.1,
+    "attendance": 81,
+    "sleep_hours": 4.8,
+    "previous_grade": 2.31,
+    "passed": true
+  },
+  {
+    "id": 697,
+    "age": null,
+    "study_hours": null,
+    "attendance": 45,
+    "sleep_hours": 5.8,
+    "previous_grade": 4.87,
+    "passed": false
+  },
+  {
+    "id": 698,
+    "age": 21,
+    "study_hours": 3.6,
+    "attendance": 67,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.93,
+    "passed": false
+  },
+  {
+    "id": 699,
+    "age": 21,
+    "study_hours": 4.9,
+    "attendance": 77,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.17,
+    "passed": true
+  },
+  {
+    "id": 700,
+    "age": 20,
+    "study_hours": 1.5,
+    "attendance": 90,
+    "sleep_hours": 4.2,
+    "previous_grade": 4.29,
+    "passed": false
+  },
+  {
+    "id": 701,
+    "age": 22,
+    "study_hours": 7.4,
+    "attendance": 91,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.4,
+    "passed": true
+  },
+  {
+    "id": 702,
+    "age": null,
+    "study_hours": null,
+    "attendance": 61,
+    "sleep_hours": 8.7,
+    "previous_grade": 2.87,
+    "passed": true
+  },
+  {
+    "id": 703,
+    "age": 25,
+    "study_hours": 7.0,
+    "attendance": 46,
+    "sleep_hours": 5.1,
+    "previous_grade": 3.64,
+    "passed": false
+  },
+  {
+    "id": 704,
+    "age": 27,
+    "study_hours": 6.7,
+    "attendance": 48,
+    "sleep_hours": 7.1,
+    "previous_grade": 4.04,
+    "passed": false
+  },
+  {
+    "id": 705,
+    "age": 23,
+    "study_hours": 7.4,
+    "attendance": 100,
+    "sleep_hours": 4.3,
+    "previous_grade": 3.51,
+    "passed": true
+  },
+  {
+    "id": 706,
+    "age": 18,
+    "study_hours": 2.0,
+    "attendance": 89,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.31,
+    "passed": true
+  },
+  {
+    "id": 707,
+    "age": 20,
+    "study_hours": 4.1,
+    "attendance": 29,
+    "sleep_hours": 8.4,
+    "previous_grade": 4.13,
+    "passed": true
+  },
+  {
+    "id": 708,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.16,
+    "passed": false
+  },
+  {
+    "id": 709,
+    "age": null,
+    "study_hours": null,
+    "attendance": 72,
+    "sleep_hours": 8.4,
+    "previous_grade": 4.79,
+    "passed": true
+  },
+  {
+    "id": 710,
+    "age": null,
+    "study_hours": null,
+    "attendance": 73,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.22,
+    "passed": true
+  },
+  {
+    "id": 711,
+    "age": 27,
+    "study_hours": 1.2,
+    "attendance": 42,
+    "sleep_hours": 5.3,
+    "previous_grade": 5.06,
+    "passed": true
+  },
+  {
+    "id": 712,
+    "age": 19,
+    "study_hours": 2.6,
+    "attendance": 94,
+    "sleep_hours": 6.0,
+    "previous_grade": 2.76,
+    "passed": true
+  },
+  {
+    "id": 713,
+    "age": 18,
+    "study_hours": 4.8,
+    "attendance": 40,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.5,
+    "passed": false
+  },
+  {
+    "id": 714,
+    "age": null,
+    "study_hours": null,
+    "attendance": 38,
+    "sleep_hours": 4.8,
+    "previous_grade": 4.61,
+    "passed": false
+  },
+  {
+    "id": 715,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 7.1,
+    "previous_grade": 5.97,
+    "passed": true
+  },
+  {
+    "id": 716,
+    "age": 21,
+    "study_hours": 3.6,
+    "attendance": 96,
+    "sleep_hours": 6.4,
+    "previous_grade": 3.48,
+    "passed": true
+  },
+  {
+    "id": 717,
+    "age": 22,
+    "study_hours": 7.9,
+    "attendance": 98,
+    "sleep_hours": 5.7,
+    "previous_grade": 4.82,
+    "passed": true
+  },
+  {
+    "id": 718,
+    "age": 19,
+    "study_hours": 6.1,
+    "attendance": 82,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.8,
+    "passed": true
+  },
+  {
+    "id": 719,
+    "age": 26,
+    "study_hours": 3.5,
+    "attendance": 68,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.46,
+    "passed": true
+  },
+  {
+    "id": 720,
+    "age": null,
+    "study_hours": null,
+    "attendance": 25,
+    "sleep_hours": 8.0,
+    "previous_grade": 5.29,
+    "passed": false
+  },
+  {
+    "id": 721,
+    "age": null,
+    "study_hours": null,
+    "attendance": 33,
+    "sleep_hours": 5.3,
+    "previous_grade": 3.48,
+    "passed": false
+  },
+  {
+    "id": 722,
+    "age": null,
+    "study_hours": null,
+    "attendance": 76,
+    "sleep_hours": 7.1,
+    "previous_grade": 4.08,
+    "passed": true
+  },
+  {
+    "id": 723,
+    "age": 27,
+    "study_hours": 0.9,
+    "attendance": 47,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.76,
+    "passed": false
+  },
+  {
+    "id": 724,
+    "age": 26,
+    "study_hours": 2.6,
+    "attendance": 29,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.04,
+    "passed": false
+  },
+  {
+    "id": 725,
+    "age": 27,
+    "study_hours": 1.8,
+    "attendance": 29,
+    "sleep_hours": 5.8,
+    "previous_grade": 4.62,
+    "passed": true
+  },
+  {
+    "id": 726,
+    "age": 19,
+    "study_hours": 8.0,
+    "attendance": 76,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.58,
+    "passed": true
+  },
+  {
+    "id": 727,
+    "age": null,
+    "study_hours": null,
+    "attendance": 33,
+    "sleep_hours": 8.6,
+    "previous_grade": 4.2,
+    "passed": false
+  },
+  {
+    "id": 728,
+    "age": 26,
+    "study_hours": 7.4,
+    "attendance": 69,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.26,
+    "passed": true
+  },
+  {
+    "id": 729,
+    "age": 21,
+    "study_hours": 3.9,
+    "attendance": 76,
+    "sleep_hours": 6.9,
+    "previous_grade": 3.04,
+    "passed": false
+  },
+  {
+    "id": 730,
+    "age": 19,
+    "study_hours": 4.7,
+    "attendance": 89,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.79,
+    "passed": true
+  },
+  {
+    "id": 731,
+    "age": 22,
+    "study_hours": 7.1,
+    "attendance": 98,
+    "sleep_hours": 5.3,
+    "previous_grade": 3.77,
+    "passed": true
+  },
+  {
+    "id": 732,
+    "age": 25,
+    "study_hours": 6.3,
+    "attendance": 68,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.84,
+    "passed": true
+  },
+  {
+    "id": 733,
+    "age": 27,
+    "study_hours": 7.0,
+    "attendance": 86,
+    "sleep_hours": 4.6,
+    "previous_grade": 2.27,
+    "passed": true
+  },
+  {
+    "id": 734,
+    "age": 21,
+    "study_hours": 5.6,
+    "attendance": 54,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.65,
+    "passed": false
+  },
+  {
+    "id": 735,
+    "age": 26,
+    "study_hours": 0.6,
+    "attendance": 58,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.37,
+    "passed": false
+  },
+  {
+    "id": 736,
+    "age": 23,
+    "study_hours": 1.1,
+    "attendance": 47,
+    "sleep_hours": 6.4,
+    "previous_grade": 3.41,
+    "passed": false
+  },
+  {
+    "id": 737,
+    "age": 22,
+    "study_hours": 1.9,
+    "attendance": 49,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.8,
+    "passed": false
+  },
+  {
+    "id": 738,
+    "age": null,
+    "study_hours": null,
+    "attendance": 50,
+    "sleep_hours": 8.2,
+    "previous_grade": 5.35,
+    "passed": false
+  },
+  {
+    "id": 739,
+    "age": null,
+    "study_hours": null,
+    "attendance": 35,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.65,
+    "passed": false
+  },
+  {
+    "id": 740,
+    "age": 26,
+    "study_hours": 7.7,
+    "attendance": 86,
+    "sleep_hours": 5.9,
+    "previous_grade": 3.26,
+    "passed": true
+  },
+  {
+    "id": 741,
+    "age": 27,
+    "study_hours": 7.0,
+    "attendance": 87,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.06,
+    "passed": true
+  },
+  {
+    "id": 742,
+    "age": 24,
+    "study_hours": 2.2,
+    "attendance": 98,
+    "sleep_hours": 4.6,
+    "previous_grade": 4.1,
+    "passed": true
+  },
+  {
+    "id": 743,
+    "age": 26,
+    "study_hours": 0.7,
+    "attendance": 69,
+    "sleep_hours": 6.0,
+    "previous_grade": 4.75,
+    "passed": false
+  },
+  {
+    "id": 744,
+    "age": 19,
+    "study_hours": 5.7,
+    "attendance": 83,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.03,
+    "passed": true
+  },
+  {
+    "id": 745,
+    "age": 24,
+    "study_hours": 4.9,
+    "attendance": 66,
+    "sleep_hours": 5.8,
+    "previous_grade": 5.45,
+    "passed": true
+  },
+  {
+    "id": 746,
+    "age": 22,
+    "study_hours": 2.3,
+    "attendance": 85,
+    "sleep_hours": 8.8,
+    "previous_grade": 3.37,
+    "passed": false
+  },
+  {
+    "id": 747,
+    "age": 24,
+    "study_hours": 2.1,
+    "attendance": 72,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.6,
+    "passed": false
+  },
+  {
+    "id": 748,
+    "age": null,
+    "study_hours": null,
+    "attendance": 98,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.26,
+    "passed": true
+  },
+  {
+    "id": 749,
+    "age": 21,
+    "study_hours": 4.7,
+    "attendance": 73,
+    "sleep_hours": 5.0,
+    "previous_grade": 5.2,
+    "passed": true
+  },
+  {
+    "id": 750,
+    "age": null,
+    "study_hours": null,
+    "attendance": 47,
+    "sleep_hours": 6.1,
+    "previous_grade": 2.54,
+    "passed": true
+  },
+  {
+    "id": 751,
+    "age": 26,
+    "study_hours": 4.5,
+    "attendance": 65,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.2,
+    "passed": true
+  },
+  {
+    "id": 752,
+    "age": null,
+    "study_hours": null,
+    "attendance": 37,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.24,
+    "passed": false
+  },
+  {
+    "id": 753,
+    "age": 25,
+    "study_hours": 6.8,
+    "attendance": 37,
+    "sleep_hours": 6.2,
+    "previous_grade": 3.34,
+    "passed": false
+  },
+  {
+    "id": 754,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 5.7,
+    "previous_grade": 3.65,
+    "passed": false
+  },
+  {
+    "id": 755,
+    "age": 27,
+    "study_hours": 2.0,
+    "attendance": 98,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.15,
+    "passed": true
+  },
+  {
+    "id": 756,
+    "age": null,
+    "study_hours": null,
+    "attendance": 90,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.95,
+    "passed": true
+  },
+  {
+    "id": 757,
+    "age": 24,
+    "study_hours": 5.1,
+    "attendance": 84,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.58,
+    "passed": false
+  },
+  {
+    "id": 758,
+    "age": 23,
+    "study_hours": 3.7,
+    "attendance": 98,
+    "sleep_hours": 6.0,
+    "previous_grade": 5.63,
+    "passed": true
+  },
+  {
+    "id": 759,
+    "age": null,
+    "study_hours": null,
+    "attendance": 65,
+    "sleep_hours": 7.3,
+    "previous_grade": 4.84,
+    "passed": true
+  },
+  {
+    "id": 760,
+    "age": null,
+    "study_hours": null,
+    "attendance": 81,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.76,
+    "passed": true
+  },
+  {
+    "id": 761,
+    "age": null,
+    "study_hours": null,
+    "attendance": 77,
+    "sleep_hours": 4.8,
+    "previous_grade": 5.42,
+    "passed": true
+  },
+  {
+    "id": 762,
+    "age": 21,
+    "study_hours": 5.5,
+    "attendance": 35,
+    "sleep_hours": 5.1,
+    "previous_grade": 3.59,
+    "passed": false
+  },
+  {
+    "id": 763,
+    "age": 25,
+    "study_hours": 4.6,
+    "attendance": 28,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.1,
+    "passed": true
+  },
+  {
+    "id": 764,
+    "age": 19,
+    "study_hours": 2.5,
+    "attendance": 44,
+    "sleep_hours": 4.4,
+    "previous_grade": 5.73,
+    "passed": false
+  },
+  {
+    "id": 765,
+    "age": 21,
+    "study_hours": 2.4,
+    "attendance": 61,
+    "sleep_hours": 6.2,
+    "previous_grade": 2.51,
+    "passed": false
+  },
+  {
+    "id": 766,
+    "age": null,
+    "study_hours": null,
+    "attendance": 70,
+    "sleep_hours": 8.3,
+    "previous_grade": 3.3,
+    "passed": false
+  },
+  {
+    "id": 767,
+    "age": 26,
+    "study_hours": 7.5,
+    "attendance": 95,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.88,
+    "passed": true
+  },
+  {
+    "id": 768,
+    "age": 20,
+    "study_hours": 4.9,
+    "attendance": 83,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.54,
+    "passed": true
+  },
+  {
+    "id": 769,
+    "age": 26,
+    "study_hours": 5.3,
+    "attendance": 93,
+    "sleep_hours": 5.5,
+    "previous_grade": 3.39,
+    "passed": true
+  },
+  {
+    "id": 770,
+    "age": 19,
+    "study_hours": 3.8,
+    "attendance": 71,
+    "sleep_hours": 6.1,
+    "previous_grade": 2.62,
+    "passed": false
+  },
+  {
+    "id": 771,
+    "age": null,
+    "study_hours": null,
+    "attendance": 42,
+    "sleep_hours": 5.7,
+    "previous_grade": 3.88,
+    "passed": false
+  },
+  {
+    "id": 772,
+    "age": null,
+    "study_hours": null,
+    "attendance": 86,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.06,
+    "passed": true
+  },
+  {
+    "id": 773,
+    "age": null,
+    "study_hours": null,
+    "attendance": 25,
+    "sleep_hours": 6.7,
+    "previous_grade": 2.75,
+    "passed": false
+  },
+  {
+    "id": 774,
+    "age": 24,
+    "study_hours": 3.5,
+    "attendance": 45,
+    "sleep_hours": 7.6,
+    "previous_grade": 4.58,
+    "passed": true
+  },
+  {
+    "id": 775,
+    "age": 21,
+    "study_hours": 2.5,
+    "attendance": 79,
+    "sleep_hours": 7.1,
+    "previous_grade": 4.07,
+    "passed": true
+  },
+  {
+    "id": 776,
+    "age": 27,
+    "study_hours": 6.6,
+    "attendance": 59,
+    "sleep_hours": 5.4,
+    "previous_grade": 4.97,
+    "passed": true
+  },
+  {
+    "id": 777,
+    "age": null,
+    "study_hours": null,
+    "attendance": 33,
+    "sleep_hours": 4.9,
+    "previous_grade": 3.16,
+    "passed": false
+  },
+  {
+    "id": 778,
+    "age": 27,
+    "study_hours": 3.9,
+    "attendance": 87,
+    "sleep_hours": 4.9,
+    "previous_grade": 2.08,
+    "passed": false
+  },
+  {
+    "id": 779,
+    "age": null,
+    "study_hours": null,
+    "attendance": 38,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.5,
+    "passed": false
+  },
+  {
+    "id": 780,
+    "age": 18,
+    "study_hours": 2.2,
+    "attendance": 44,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.87,
+    "passed": false
+  },
+  {
+    "id": 781,
+    "age": 25,
+    "study_hours": 8.0,
+    "attendance": 84,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.13,
+    "passed": false
+  },
+  {
+    "id": 782,
+    "age": 20,
+    "study_hours": 0.9,
+    "attendance": 75,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.88,
+    "passed": false
+  },
+  {
+    "id": 783,
+    "age": null,
+    "study_hours": null,
+    "attendance": 26,
+    "sleep_hours": 4.6,
+    "previous_grade": 5.07,
+    "passed": false
+  },
+  {
+    "id": 784,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.94,
+    "passed": false
+  },
+  {
+    "id": 785,
+    "age": 21,
+    "study_hours": 4.0,
+    "attendance": 64,
+    "sleep_hours": 8.7,
+    "previous_grade": 2.63,
+    "passed": true
+  },
+  {
+    "id": 786,
+    "age": 26,
+    "study_hours": 4.4,
+    "attendance": 57,
+    "sleep_hours": 6.4,
+    "previous_grade": 3.2,
+    "passed": false
+  },
+  {
+    "id": 787,
+    "age": 18,
+    "study_hours": 7.0,
+    "attendance": 52,
+    "sleep_hours": 8.9,
+    "previous_grade": 2.94,
+    "passed": true
+  },
+  {
+    "id": 788,
+    "age": null,
+    "study_hours": null,
+    "attendance": 60,
+    "sleep_hours": 6.9,
+    "previous_grade": 3.58,
+    "passed": false
+  },
+  {
+    "id": 789,
+    "age": 18,
+    "study_hours": 4.9,
+    "attendance": 85,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.62,
+    "passed": true
+  },
+  {
+    "id": 790,
+    "age": 21,
+    "study_hours": 1.7,
+    "attendance": 36,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.35,
+    "passed": false
+  },
+  {
+    "id": 791,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 7.5,
+    "previous_grade": 5.17,
+    "passed": false
+  },
+  {
+    "id": 792,
+    "age": 21,
+    "study_hours": 2.9,
+    "attendance": 96,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.03,
+    "passed": true
+  },
+  {
+    "id": 793,
+    "age": 25,
+    "study_hours": 6.0,
+    "attendance": 27,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.43,
+    "passed": false
+  },
+  {
+    "id": 794,
+    "age": 18,
+    "study_hours": 4.1,
+    "attendance": 81,
+    "sleep_hours": 6.8,
+    "previous_grade": 4.17,
+    "passed": true
+  },
+  {
+    "id": 795,
+    "age": 27,
+    "study_hours": 1.9,
+    "attendance": 69,
+    "sleep_hours": 5.6,
+    "previous_grade": 3.87,
+    "passed": true
+  },
+  {
+    "id": 796,
+    "age": 27,
+    "study_hours": 7.4,
+    "attendance": 95,
+    "sleep_hours": 4.8,
+    "previous_grade": 4.12,
+    "passed": true
+  },
+  {
+    "id": 797,
+    "age": 22,
+    "study_hours": 4.6,
+    "attendance": 83,
+    "sleep_hours": 4.0,
+    "previous_grade": 4.55,
+    "passed": true
+  },
+  {
+    "id": 798,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.96,
+    "passed": true
+  },
+  {
+    "id": 799,
+    "age": 26,
+    "study_hours": 6.6,
+    "attendance": 49,
+    "sleep_hours": 6.6,
+    "previous_grade": 3.99,
+    "passed": true
+  },
+  {
+    "id": 800,
+    "age": 27,
+    "study_hours": 2.6,
+    "attendance": 77,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.44,
+    "passed": false
+  },
+  {
+    "id": 801,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 4.9,
+    "previous_grade": 2.13,
+    "passed": false
+  },
+  {
+    "id": 802,
+    "age": 21,
+    "study_hours": 1.2,
+    "attendance": 98,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.55,
+    "passed": false
+  },
+  {
+    "id": 803,
+    "age": 27,
+    "study_hours": 5.8,
+    "attendance": 57,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.88,
+    "passed": true
+  },
+  {
+    "id": 804,
+    "age": 18,
+    "study_hours": 7.5,
+    "attendance": 51,
+    "sleep_hours": 7.3,
+    "previous_grade": 5.71,
+    "passed": true
+  },
+  {
+    "id": 805,
+    "age": null,
+    "study_hours": null,
+    "attendance": 32,
+    "sleep_hours": 5.8,
+    "previous_grade": 4.97,
+    "passed": true
+  },
+  {
+    "id": 806,
+    "age": 23,
+    "study_hours": 6.5,
+    "attendance": 32,
+    "sleep_hours": 8.1,
+    "previous_grade": 3.06,
+    "passed": false
+  },
+  {
+    "id": 807,
+    "age": 19,
+    "study_hours": 6.8,
+    "attendance": 34,
+    "sleep_hours": 8.7,
+    "previous_grade": 5.84,
+    "passed": false
+  },
+  {
+    "id": 808,
+    "age": 21,
+    "study_hours": 4.5,
+    "attendance": 49,
+    "sleep_hours": 5.0,
+    "previous_grade": 4.63,
+    "passed": true
+  },
+  {
+    "id": 809,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 6.1,
+    "previous_grade": 2.42,
+    "passed": true
+  },
+  {
+    "id": 810,
+    "age": null,
+    "study_hours": null,
+    "attendance": 79,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.67,
+    "passed": false
+  },
+  {
+    "id": 811,
+    "age": null,
+    "study_hours": null,
+    "attendance": 45,
+    "sleep_hours": 6.7,
+    "previous_grade": 4.4,
+    "passed": true
+  },
+  {
+    "id": 812,
+    "age": 23,
+    "study_hours": 4.6,
+    "attendance": 66,
+    "sleep_hours": 8.2,
+    "previous_grade": 3.65,
+    "passed": true
+  },
+  {
+    "id": 813,
+    "age": 23,
+    "study_hours": 5.1,
+    "attendance": 97,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.5,
+    "passed": true
+  },
+  {
+    "id": 814,
+    "age": null,
+    "study_hours": null,
+    "attendance": 82,
+    "sleep_hours": 6.2,
+    "previous_grade": 3.59,
+    "passed": true
+  },
+  {
+    "id": 815,
+    "age": 22,
+    "study_hours": 5.0,
+    "attendance": 91,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.56,
+    "passed": true
+  },
+  {
+    "id": 816,
+    "age": 21,
+    "study_hours": 2.1,
+    "attendance": 65,
+    "sleep_hours": 4.1,
+    "previous_grade": 5.29,
+    "passed": true
+  },
+  {
+    "id": 817,
+    "age": 22,
+    "study_hours": 7.4,
+    "attendance": 90,
+    "sleep_hours": 6.8,
+    "previous_grade": 5.7,
+    "passed": true
+  },
+  {
+    "id": 818,
+    "age": null,
+    "study_hours": null,
+    "attendance": 44,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.47,
+    "passed": false
+  },
+  {
+    "id": 819,
+    "age": 21,
+    "study_hours": 2.4,
+    "attendance": 63,
+    "sleep_hours": 4.5,
+    "previous_grade": 3.6,
+    "passed": true
+  },
+  {
+    "id": 820,
+    "age": null,
+    "study_hours": null,
+    "attendance": 86,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.3,
+    "passed": true
+  },
+  {
+    "id": 821,
+    "age": 27,
+    "study_hours": 6.6,
+    "attendance": 37,
+    "sleep_hours": 7.0,
+    "previous_grade": 3.2,
+    "passed": true
+  },
+  {
+    "id": 822,
+    "age": 27,
+    "study_hours": 3.4,
+    "attendance": 32,
+    "sleep_hours": 8.6,
+    "previous_grade": 3.34,
+    "passed": false
+  },
+  {
+    "id": 823,
+    "age": 24,
+    "study_hours": 3.6,
+    "attendance": 40,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.91,
+    "passed": false
+  },
+  {
+    "id": 824,
+    "age": 27,
+    "study_hours": 7.5,
+    "attendance": 73,
+    "sleep_hours": 4.3,
+    "previous_grade": 4.1,
+    "passed": true
+  },
+  {
+    "id": 825,
+    "age": null,
+    "study_hours": null,
+    "attendance": 89,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.61,
+    "passed": false
+  },
+  {
+    "id": 826,
+    "age": 24,
+    "study_hours": 7.8,
+    "attendance": 98,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.89,
+    "passed": true
+  },
+  {
+    "id": 827,
+    "age": null,
+    "study_hours": null,
+    "attendance": 68,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.29,
+    "passed": false
+  },
+  {
+    "id": 828,
+    "age": null,
+    "study_hours": null,
+    "attendance": 76,
+    "sleep_hours": 6.5,
+    "previous_grade": 5.1,
+    "passed": false
+  },
+  {
+    "id": 829,
+    "age": 20,
+    "study_hours": 4.1,
+    "attendance": 50,
+    "sleep_hours": 6.4,
+    "previous_grade": 4.61,
+    "passed": false
+  },
+  {
+    "id": 830,
+    "age": null,
+    "study_hours": null,
+    "attendance": 92,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.29,
+    "passed": true
+  },
+  {
+    "id": 831,
+    "age": 23,
+    "study_hours": 5.6,
+    "attendance": 98,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.69,
+    "passed": true
+  },
+  {
+    "id": 832,
+    "age": 23,
+    "study_hours": 1.9,
+    "attendance": 69,
+    "sleep_hours": 7.0,
+    "previous_grade": 2.1,
+    "passed": false
+  },
+  {
+    "id": 833,
+    "age": 23,
+    "study_hours": 5.1,
+    "attendance": 81,
+    "sleep_hours": 7.1,
+    "previous_grade": 3.76,
+    "passed": true
+  },
+  {
+    "id": 834,
+    "age": 21,
+    "study_hours": 2.0,
+    "attendance": 72,
+    "sleep_hours": 4.8,
+    "previous_grade": 4.91,
+    "passed": false
+  },
+  {
+    "id": 835,
+    "age": null,
+    "study_hours": null,
+    "attendance": 43,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.28,
+    "passed": false
+  },
+  {
+    "id": 836,
+    "age": 19,
+    "study_hours": 2.8,
+    "attendance": 85,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.84,
+    "passed": false
+  },
+  {
+    "id": 837,
+    "age": 21,
+    "study_hours": 4.6,
+    "attendance": 58,
+    "sleep_hours": 6.7,
+    "previous_grade": 4.49,
+    "passed": true
+  },
+  {
+    "id": 838,
+    "age": 18,
+    "study_hours": 3.3,
+    "attendance": 92,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.68,
+    "passed": false
+  },
+  {
+    "id": 839,
+    "age": 27,
+    "study_hours": 2.5,
+    "attendance": 84,
+    "sleep_hours": 7.3,
+    "previous_grade": 2.03,
+    "passed": false
+  },
+  {
+    "id": 840,
+    "age": 22,
+    "study_hours": 5.5,
+    "attendance": 71,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.08,
+    "passed": true
+  },
+  {
+    "id": 841,
+    "age": 24,
+    "study_hours": 2.2,
+    "attendance": 73,
+    "sleep_hours": 6.5,
+    "previous_grade": 4.84,
+    "passed": true
+  },
+  {
+    "id": 842,
+    "age": null,
+    "study_hours": null,
+    "attendance": 93,
+    "sleep_hours": 4.4,
+    "previous_grade": 2.8,
+    "passed": true
+  },
+  {
+    "id": 843,
+    "age": 26,
+    "study_hours": 7.4,
+    "attendance": 27,
+    "sleep_hours": 4.2,
+    "previous_grade": 5.69,
+    "passed": true
+  },
+  {
+    "id": 844,
+    "age": null,
+    "study_hours": null,
+    "attendance": 45,
+    "sleep_hours": 4.1,
+    "previous_grade": 4.74,
+    "passed": false
+  },
+  {
+    "id": 845,
+    "age": 22,
+    "study_hours": 2.3,
+    "attendance": 89,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.25,
+    "passed": false
+  },
+  {
+    "id": 846,
+    "age": 24,
+    "study_hours": 7.2,
+    "attendance": 28,
+    "sleep_hours": 8.7,
+    "previous_grade": 5.8,
+    "passed": true
+  },
+  {
+    "id": 847,
+    "age": 23,
+    "study_hours": 7.2,
+    "attendance": 42,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.53,
+    "passed": true
+  },
+  {
+    "id": 848,
+    "age": 27,
+    "study_hours": 7.0,
+    "attendance": 54,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.29,
+    "passed": true
+  },
+  {
+    "id": 849,
+    "age": 22,
+    "study_hours": 7.3,
+    "attendance": 67,
+    "sleep_hours": 6.2,
+    "previous_grade": 2.53,
+    "passed": true
+  },
+  {
+    "id": 850,
+    "age": null,
+    "study_hours": null,
+    "attendance": 50,
+    "sleep_hours": 8.3,
+    "previous_grade": 3.24,
+    "passed": true
+  },
+  {
+    "id": 851,
+    "age": 26,
+    "study_hours": 7.3,
+    "attendance": 80,
+    "sleep_hours": 9.0,
+    "previous_grade": 5.9,
+    "passed": true
+  },
+  {
+    "id": 852,
+    "age": 27,
+    "study_hours": 7.4,
+    "attendance": 65,
+    "sleep_hours": 4.3,
+    "previous_grade": 4.13,
+    "passed": true
+  },
+  {
+    "id": 853,
+    "age": 20,
+    "study_hours": 2.9,
+    "attendance": 43,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.06,
+    "passed": true
+  },
+  {
+    "id": 854,
+    "age": 24,
+    "study_hours": 7.7,
+    "attendance": 63,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.74,
+    "passed": true
+  },
+  {
+    "id": 855,
+    "age": 22,
+    "study_hours": 1.6,
+    "attendance": 49,
+    "sleep_hours": 4.5,
+    "previous_grade": 2.74,
+    "passed": false
+  },
+  {
+    "id": 856,
+    "age": null,
+    "study_hours": null,
+    "attendance": 97,
+    "sleep_hours": 7.1,
+    "previous_grade": 4.39,
+    "passed": true
+  },
+  {
+    "id": 857,
+    "age": null,
+    "study_hours": null,
+    "attendance": 86,
+    "sleep_hours": 4.7,
+    "previous_grade": 5.38,
+    "passed": true
+  },
+  {
+    "id": 858,
+    "age": null,
+    "study_hours": null,
+    "attendance": 74,
+    "sleep_hours": 6.5,
+    "previous_grade": 2.55,
+    "passed": false
+  },
+  {
+    "id": 859,
+    "age": 18,
+    "study_hours": 3.6,
+    "attendance": 26,
+    "sleep_hours": 8.6,
+    "previous_grade": 5.8,
+    "passed": false
+  },
+  {
+    "id": 860,
+    "age": 21,
+    "study_hours": 6.2,
+    "attendance": 33,
+    "sleep_hours": 4.9,
+    "previous_grade": 5.82,
+    "passed": true
+  },
+  {
+    "id": 861,
+    "age": 27,
+    "study_hours": 4.2,
+    "attendance": 66,
+    "sleep_hours": 8.3,
+    "previous_grade": 5.55,
+    "passed": true
+  },
+  {
+    "id": 862,
+    "age": 18,
+    "study_hours": 5.1,
+    "attendance": 73,
+    "sleep_hours": 7.6,
+    "previous_grade": 3.58,
+    "passed": true
+  },
+  {
+    "id": 863,
+    "age": 27,
+    "study_hours": 5.0,
+    "attendance": 92,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.82,
+    "passed": true
+  },
+  {
+    "id": 864,
+    "age": 19,
+    "study_hours": 3.9,
+    "attendance": 30,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.98,
+    "passed": false
+  },
+  {
+    "id": 865,
+    "age": null,
+    "study_hours": null,
+    "attendance": 91,
+    "sleep_hours": 7.8,
+    "previous_grade": 5.85,
+    "passed": true
+  },
+  {
+    "id": 866,
+    "age": 25,
+    "study_hours": 3.5,
+    "attendance": 63,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.14,
+    "passed": false
+  },
+  {
+    "id": 867,
+    "age": 22,
+    "study_hours": 5.1,
+    "attendance": 31,
+    "sleep_hours": 7.4,
+    "previous_grade": 5.61,
+    "passed": true
+  },
+  {
+    "id": 868,
+    "age": 25,
+    "study_hours": 1.2,
+    "attendance": 89,
+    "sleep_hours": 4.6,
+    "previous_grade": 5.11,
+    "passed": true
+  },
+  {
+    "id": 869,
+    "age": 26,
+    "study_hours": 1.5,
+    "attendance": 77,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.1,
+    "passed": false
+  },
+  {
+    "id": 870,
+    "age": null,
+    "study_hours": null,
+    "attendance": 36,
+    "sleep_hours": 5.3,
+    "previous_grade": 4.77,
+    "passed": true
+  },
+  {
+    "id": 871,
+    "age": 20,
+    "study_hours": 5.9,
+    "attendance": 40,
+    "sleep_hours": 4.5,
+    "previous_grade": 4.82,
+    "passed": true
+  },
+  {
+    "id": 872,
+    "age": 19,
+    "study_hours": 4.4,
+    "attendance": 74,
+    "sleep_hours": 7.6,
+    "previous_grade": 5.9,
+    "passed": true
+  },
+  {
+    "id": 873,
+    "age": null,
+    "study_hours": null,
+    "attendance": 73,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.68,
+    "passed": false
+  },
+  {
+    "id": 874,
+    "age": 20,
+    "study_hours": 1.7,
+    "attendance": 43,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.85,
+    "passed": false
+  },
+  {
+    "id": 875,
+    "age": 22,
+    "study_hours": 6.0,
+    "attendance": 82,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.72,
+    "passed": true
+  },
+  {
+    "id": 876,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 4.1,
+    "previous_grade": 3.99,
+    "passed": false
+  },
+  {
+    "id": 877,
+    "age": 18,
+    "study_hours": 5.1,
+    "attendance": 88,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.36,
+    "passed": true
+  },
+  {
+    "id": 878,
+    "age": null,
+    "study_hours": null,
+    "attendance": 25,
+    "sleep_hours": 5.2,
+    "previous_grade": 4.19,
+    "passed": false
+  },
+  {
+    "id": 879,
+    "age": 26,
+    "study_hours": 6.7,
+    "attendance": 51,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.59,
+    "passed": true
+  },
+  {
+    "id": 880,
+    "age": 18,
+    "study_hours": 1.6,
+    "attendance": 29,
+    "sleep_hours": 7.3,
+    "previous_grade": 5.35,
+    "passed": false
+  },
+  {
+    "id": 881,
+    "age": 19,
+    "study_hours": 0.9,
+    "attendance": 78,
+    "sleep_hours": 9.0,
+    "previous_grade": 2.65,
+    "passed": false
+  },
+  {
+    "id": 882,
+    "age": null,
+    "study_hours": null,
+    "attendance": 96,
+    "sleep_hours": 4.9,
+    "previous_grade": 3.82,
+    "passed": true
+  },
+  {
+    "id": 883,
+    "age": 18,
+    "study_hours": 1.2,
+    "attendance": 63,
+    "sleep_hours": 5.6,
+    "previous_grade": 5.59,
+    "passed": true
+  },
+  {
+    "id": 884,
+    "age": 24,
+    "study_hours": 6.8,
+    "attendance": 33,
+    "sleep_hours": 5.5,
+    "previous_grade": 2.54,
+    "passed": true
+  },
+  {
+    "id": 885,
+    "age": 22,
+    "study_hours": 3.0,
+    "attendance": 77,
+    "sleep_hours": 6.6,
+    "previous_grade": 4.78,
+    "passed": true
+  },
+  {
+    "id": 886,
+    "age": 19,
+    "study_hours": 4.8,
+    "attendance": 92,
+    "sleep_hours": 8.9,
+    "previous_grade": 3.93,
+    "passed": true
+  },
+  {
+    "id": 887,
+    "age": 22,
+    "study_hours": 3.7,
+    "attendance": 65,
+    "sleep_hours": 5.3,
+    "previous_grade": 4.3,
+    "passed": true
+  },
+  {
+    "id": 888,
+    "age": 20,
+    "study_hours": 5.1,
+    "attendance": 88,
+    "sleep_hours": 6.6,
+    "previous_grade": 4.53,
+    "passed": true
+  },
+  {
+    "id": 889,
+    "age": 20,
+    "study_hours": 7.1,
+    "attendance": 54,
+    "sleep_hours": 7.5,
+    "previous_grade": 5.92,
+    "passed": true
+  },
+  {
+    "id": 890,
+    "age": 18,
+    "study_hours": 4.0,
+    "attendance": 40,
+    "sleep_hours": 7.7,
+    "previous_grade": 2.83,
+    "passed": false
+  },
+  {
+    "id": 891,
+    "age": null,
+    "study_hours": null,
+    "attendance": 67,
+    "sleep_hours": 5.7,
+    "previous_grade": 5.22,
+    "passed": false
+  },
+  {
+    "id": 892,
+    "age": 21,
+    "study_hours": 5.7,
+    "attendance": 57,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.23,
+    "passed": true
+  },
+  {
+    "id": 893,
+    "age": 23,
+    "study_hours": 6.3,
+    "attendance": 39,
+    "sleep_hours": 7.4,
+    "previous_grade": 3.37,
+    "passed": true
+  },
+  {
+    "id": 894,
+    "age": 27,
+    "study_hours": 7.7,
+    "attendance": 47,
+    "sleep_hours": 5.0,
+    "previous_grade": 5.34,
+    "passed": true
+  },
+  {
+    "id": 895,
+    "age": 25,
+    "study_hours": 7.4,
+    "attendance": 29,
+    "sleep_hours": 7.2,
+    "previous_grade": 3.93,
+    "passed": true
+  },
+  {
+    "id": 896,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 7.9,
+    "previous_grade": 3.66,
+    "passed": true
+  },
+  {
+    "id": 897,
+    "age": 26,
+    "study_hours": 2.7,
+    "attendance": 65,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.07,
+    "passed": false
+  },
+  {
+    "id": 898,
+    "age": 23,
+    "study_hours": 6.5,
+    "attendance": 70,
+    "sleep_hours": 4.3,
+    "previous_grade": 2.6,
+    "passed": true
+  },
+  {
+    "id": 899,
+    "age": 23,
+    "study_hours": 7.9,
+    "attendance": 93,
+    "sleep_hours": 8.2,
+    "previous_grade": 4.28,
+    "passed": true
+  },
+  {
+    "id": 900,
+    "age": 27,
+    "study_hours": 1.4,
+    "attendance": 64,
+    "sleep_hours": 7.5,
+    "previous_grade": 3.26,
+    "passed": false
+  },
+  {
+    "id": 901,
+    "age": 24,
+    "study_hours": 1.2,
+    "attendance": 55,
+    "sleep_hours": 5.9,
+    "previous_grade": 5.32,
+    "passed": false
+  },
+  {
+    "id": 902,
+    "age": 26,
+    "study_hours": 2.8,
+    "attendance": 39,
+    "sleep_hours": 5.9,
+    "previous_grade": 2.15,
+    "passed": false
+  },
+  {
+    "id": 903,
+    "age": null,
+    "study_hours": null,
+    "attendance": 28,
+    "sleep_hours": 8.0,
+    "previous_grade": 5.62,
+    "passed": false
+  },
+  {
+    "id": 904,
+    "age": 23,
+    "study_hours": 7.4,
+    "attendance": 92,
+    "sleep_hours": 5.6,
+    "previous_grade": 3.31,
+    "passed": true
+  },
+  {
+    "id": 905,
+    "age": null,
+    "study_hours": null,
+    "attendance": 91,
+    "sleep_hours": 7.4,
+    "previous_grade": 2.53,
+    "passed": true
+  },
+  {
+    "id": 906,
+    "age": 25,
+    "study_hours": 3.4,
+    "attendance": 91,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.24,
+    "passed": false
+  },
+  {
+    "id": 907,
+    "age": 27,
+    "study_hours": 7.0,
+    "attendance": 67,
+    "sleep_hours": 6.3,
+    "previous_grade": 2.18,
+    "passed": true
+  },
+  {
+    "id": 908,
+    "age": 22,
+    "study_hours": 0.7,
+    "attendance": 64,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.84,
+    "passed": false
+  },
+  {
+    "id": 909,
+    "age": 22,
+    "study_hours": 2.6,
+    "attendance": 65,
+    "sleep_hours": 7.9,
+    "previous_grade": 4.68,
+    "passed": false
+  },
+  {
+    "id": 910,
+    "age": 20,
+    "study_hours": 2.6,
+    "attendance": 26,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.24,
+    "passed": false
+  },
+  {
+    "id": 911,
+    "age": 26,
+    "study_hours": 3.1,
+    "attendance": 65,
+    "sleep_hours": 5.4,
+    "previous_grade": 5.77,
+    "passed": true
+  },
+  {
+    "id": 912,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 5.6,
+    "previous_grade": 5.57,
+    "passed": false
+  },
+  {
+    "id": 913,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 8.5,
+    "previous_grade": 2.2,
+    "passed": false
+  },
+  {
+    "id": 914,
+    "age": 19,
+    "study_hours": 3.7,
+    "attendance": 47,
+    "sleep_hours": 7.5,
+    "previous_grade": 5.57,
+    "passed": true
+  },
+  {
+    "id": 915,
+    "age": null,
+    "study_hours": null,
+    "attendance": 64,
+    "sleep_hours": 5.7,
+    "previous_grade": 2.79,
+    "passed": true
+  },
+  {
+    "id": 916,
+    "age": null,
+    "study_hours": null,
+    "attendance": 84,
+    "sleep_hours": 6.8,
+    "previous_grade": 2.37,
+    "passed": false
+  },
+  {
+    "id": 917,
+    "age": null,
+    "study_hours": null,
+    "attendance": 64,
+    "sleep_hours": 7.4,
+    "previous_grade": 4.84,
+    "passed": false
+  },
+  {
+    "id": 918,
+    "age": 21,
+    "study_hours": 7.6,
+    "attendance": 43,
+    "sleep_hours": 8.3,
+    "previous_grade": 4.47,
+    "passed": true
+  },
+  {
+    "id": 919,
+    "age": 24,
+    "study_hours": 1.9,
+    "attendance": 67,
+    "sleep_hours": 7.9,
+    "previous_grade": 5.53,
+    "passed": false
+  },
+  {
+    "id": 920,
+    "age": null,
+    "study_hours": null,
+    "attendance": 39,
+    "sleep_hours": 5.8,
+    "previous_grade": 3.84,
+    "passed": false
+  },
+  {
+    "id": 921,
+    "age": null,
+    "study_hours": null,
+    "attendance": 41,
+    "sleep_hours": 6.5,
+    "previous_grade": 3.62,
+    "passed": true
+  },
+  {
+    "id": 922,
+    "age": 19,
+    "study_hours": 2.9,
+    "attendance": 34,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.13,
+    "passed": false
+  },
+  {
+    "id": 923,
+    "age": 24,
+    "study_hours": 2.3,
+    "attendance": 56,
+    "sleep_hours": 6.7,
+    "previous_grade": 5.9,
+    "passed": false
+  },
+  {
+    "id": 924,
+    "age": 23,
+    "study_hours": 2.1,
+    "attendance": 100,
+    "sleep_hours": 6.2,
+    "previous_grade": 5.92,
+    "passed": true
+  },
+  {
+    "id": 925,
+    "age": null,
+    "study_hours": null,
+    "attendance": 55,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.68,
+    "passed": true
+  },
+  {
+    "id": 926,
+    "age": 27,
+    "study_hours": 6.8,
+    "attendance": 39,
+    "sleep_hours": 7.0,
+    "previous_grade": 3.85,
+    "passed": true
+  },
+  {
+    "id": 927,
+    "age": null,
+    "study_hours": null,
+    "attendance": 76,
+    "sleep_hours": 4.3,
+    "previous_grade": 2.43,
+    "passed": false
+  },
+  {
+    "id": 928,
+    "age": 24,
+    "study_hours": 3.0,
+    "attendance": 32,
+    "sleep_hours": 4.5,
+    "previous_grade": 5.27,
+    "passed": true
+  },
+  {
+    "id": 929,
+    "age": 18,
+    "study_hours": 6.2,
+    "attendance": 44,
+    "sleep_hours": 6.3,
+    "previous_grade": 3.17,
+    "passed": true
+  },
+  {
+    "id": 930,
+    "age": 25,
+    "study_hours": 2.0,
+    "attendance": 65,
+    "sleep_hours": 5.5,
+    "previous_grade": 5.18,
+    "passed": true
+  },
+  {
+    "id": 931,
+    "age": null,
+    "study_hours": null,
+    "attendance": 69,
+    "sleep_hours": 9.0,
+    "previous_grade": 4.33,
+    "passed": true
+  },
+  {
+    "id": 932,
+    "age": 26,
+    "study_hours": 3.5,
+    "attendance": 41,
+    "sleep_hours": 8.3,
+    "previous_grade": 2.25,
+    "passed": false
+  },
+  {
+    "id": 933,
+    "age": 18,
+    "study_hours": 0.5,
+    "attendance": 96,
+    "sleep_hours": 8.1,
+    "previous_grade": 3.44,
+    "passed": true
+  },
+  {
+    "id": 934,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 6.0,
+    "previous_grade": 3.27,
+    "passed": false
+  },
+  {
+    "id": 935,
+    "age": 24,
+    "study_hours": 3.8,
+    "attendance": 52,
+    "sleep_hours": 7.3,
+    "previous_grade": 3.9,
+    "passed": false
+  },
+  {
+    "id": 936,
+    "age": null,
+    "study_hours": null,
+    "attendance": 71,
+    "sleep_hours": 8.2,
+    "previous_grade": 2.62,
+    "passed": true
+  },
+  {
+    "id": 937,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 7.2,
+    "previous_grade": 2.58,
+    "passed": false
+  },
+  {
+    "id": 938,
+    "age": 24,
+    "study_hours": 7.8,
+    "attendance": 42,
+    "sleep_hours": 4.4,
+    "previous_grade": 4.57,
+    "passed": true
+  },
+  {
+    "id": 939,
+    "age": 25,
+    "study_hours": 7.2,
+    "attendance": 79,
+    "sleep_hours": 7.1,
+    "previous_grade": 3.82,
+    "passed": true
+  },
+  {
+    "id": 940,
+    "age": 25,
+    "study_hours": 3.4,
+    "attendance": 53,
+    "sleep_hours": 4.9,
+    "previous_grade": 4.42,
+    "passed": true
+  },
+  {
+    "id": 941,
+    "age": 21,
+    "study_hours": 5.8,
+    "attendance": 59,
+    "sleep_hours": 6.1,
+    "previous_grade": 4.18,
+    "passed": true
+  },
+  {
+    "id": 942,
+    "age": 18,
+    "study_hours": 4.8,
+    "attendance": 72,
+    "sleep_hours": 4.6,
+    "previous_grade": 3.93,
+    "passed": true
+  },
+  {
+    "id": 943,
+    "age": 20,
+    "study_hours": 6.0,
+    "attendance": 92,
+    "sleep_hours": 8.9,
+    "previous_grade": 5.93,
+    "passed": true
+  },
+  {
+    "id": 944,
+    "age": null,
+    "study_hours": null,
+    "attendance": 91,
+    "sleep_hours": 8.4,
+    "previous_grade": 2.35,
+    "passed": true
+  },
+  {
+    "id": 945,
+    "age": null,
+    "study_hours": null,
+    "attendance": 94,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.25,
+    "passed": false
+  },
+  {
+    "id": 946,
+    "age": 23,
+    "study_hours": 4.5,
+    "attendance": 26,
+    "sleep_hours": 6.3,
+    "previous_grade": 4.05,
+    "passed": false
+  },
+  {
+    "id": 947,
+    "age": 23,
+    "study_hours": 3.7,
+    "attendance": 62,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.14,
+    "passed": true
+  },
+  {
+    "id": 948,
+    "age": null,
+    "study_hours": null,
+    "attendance": 97,
+    "sleep_hours": 5.3,
+    "previous_grade": 4.52,
+    "passed": true
+  },
+  {
+    "id": 949,
+    "age": null,
+    "study_hours": null,
+    "attendance": 62,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.5,
+    "passed": false
+  },
+  {
+    "id": 950,
+    "age": null,
+    "study_hours": null,
+    "attendance": 34,
+    "sleep_hours": 8.3,
+    "previous_grade": 3.11,
+    "passed": false
+  },
+  {
+    "id": 951,
+    "age": null,
+    "study_hours": null,
+    "attendance": 57,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.45,
+    "passed": false
+  },
+  {
+    "id": 952,
+    "age": 27,
+    "study_hours": 6.0,
+    "attendance": 82,
+    "sleep_hours": 5.8,
+    "previous_grade": 2.7,
+    "passed": true
+  },
+  {
+    "id": 953,
+    "age": null,
+    "study_hours": null,
+    "attendance": 92,
+    "sleep_hours": 8.3,
+    "previous_grade": 3.37,
+    "passed": false
+  },
+  {
+    "id": 954,
+    "age": 20,
+    "study_hours": 5.0,
+    "attendance": 44,
+    "sleep_hours": 8.2,
+    "previous_grade": 5.01,
+    "passed": true
+  },
+  {
+    "id": 955,
+    "age": 24,
+    "study_hours": 2.3,
+    "attendance": 81,
+    "sleep_hours": 7.6,
+    "previous_grade": 2.67,
+    "passed": false
+  },
+  {
+    "id": 956,
+    "age": null,
+    "study_hours": null,
+    "attendance": 58,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.46,
+    "passed": false
+  },
+  {
+    "id": 957,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 7.7,
+    "previous_grade": 5.01,
+    "passed": true
+  },
+  {
+    "id": 958,
+    "age": 24,
+    "study_hours": 5.6,
+    "attendance": 74,
+    "sleep_hours": 6.4,
+    "previous_grade": 2.58,
+    "passed": true
+  },
+  {
+    "id": 959,
+    "age": 18,
+    "study_hours": 2.7,
+    "attendance": 82,
+    "sleep_hours": 5.9,
+    "previous_grade": 3.26,
+    "passed": false
+  },
+  {
+    "id": 960,
+    "age": 18,
+    "study_hours": 1.2,
+    "attendance": 93,
+    "sleep_hours": 7.2,
+    "previous_grade": 5.82,
+    "passed": true
+  },
+  {
+    "id": 961,
+    "age": 22,
+    "study_hours": 3.0,
+    "attendance": 59,
+    "sleep_hours": 8.0,
+    "previous_grade": 3.02,
+    "passed": false
+  },
+  {
+    "id": 962,
+    "age": 25,
+    "study_hours": 6.3,
+    "attendance": 55,
+    "sleep_hours": 7.7,
+    "previous_grade": 4.35,
+    "passed": false
+  },
+  {
+    "id": 963,
+    "age": null,
+    "study_hours": null,
+    "attendance": 48,
+    "sleep_hours": 5.6,
+    "previous_grade": 2.04,
+    "passed": false
+  },
+  {
+    "id": 964,
+    "age": 19,
+    "study_hours": 0.6,
+    "attendance": 37,
+    "sleep_hours": 6.6,
+    "previous_grade": 4.74,
+    "passed": false
+  },
+  {
+    "id": 965,
+    "age": null,
+    "study_hours": null,
+    "attendance": 29,
+    "sleep_hours": 4.1,
+    "previous_grade": 2.37,
+    "passed": false
+  },
+  {
+    "id": 966,
+    "age": null,
+    "study_hours": null,
+    "attendance": 40,
+    "sleep_hours": 7.5,
+    "previous_grade": 2.48,
+    "passed": true
+  },
+  {
+    "id": 967,
+    "age": 20,
+    "study_hours": 3.3,
+    "attendance": 97,
+    "sleep_hours": 8.0,
+    "previous_grade": 2.74,
+    "passed": false
+  },
+  {
+    "id": 968,
+    "age": 20,
+    "study_hours": 2.4,
+    "attendance": 84,
+    "sleep_hours": 7.3,
+    "previous_grade": 2.3,
+    "passed": false
+  },
+  {
+    "id": 969,
+    "age": 22,
+    "study_hours": 6.3,
+    "attendance": 66,
+    "sleep_hours": 5.3,
+    "previous_grade": 5.12,
+    "passed": true
+  },
+  {
+    "id": 970,
+    "age": 18,
+    "study_hours": 3.4,
+    "attendance": 67,
+    "sleep_hours": 9.0,
+    "previous_grade": 3.03,
+    "passed": true
+  },
+  {
+    "id": 971,
+    "age": 20,
+    "study_hours": 3.8,
+    "attendance": 87,
+    "sleep_hours": 8.9,
+    "previous_grade": 2.8,
+    "passed": false
+  },
+  {
+    "id": 972,
+    "age": 25,
+    "study_hours": 1.3,
+    "attendance": 94,
+    "sleep_hours": 7.8,
+    "previous_grade": 2.87,
+    "passed": false
+  },
+  {
+    "id": 973,
+    "age": 25,
+    "study_hours": 5.9,
+    "attendance": 38,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.28,
+    "passed": true
+  },
+  {
+    "id": 974,
+    "age": 25,
+    "study_hours": 0.6,
+    "attendance": 88,
+    "sleep_hours": 4.7,
+    "previous_grade": 4.56,
+    "passed": true
+  },
+  {
+    "id": 975,
+    "age": 24,
+    "study_hours": 2.5,
+    "attendance": 67,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.3,
+    "passed": false
+  },
+  {
+    "id": 976,
+    "age": 25,
+    "study_hours": 4.1,
+    "attendance": 76,
+    "sleep_hours": 8.2,
+    "previous_grade": 5.12,
+    "passed": true
+  },
+  {
+    "id": 977,
+    "age": 26,
+    "study_hours": 2.2,
+    "attendance": 74,
+    "sleep_hours": 8.8,
+    "previous_grade": 5.27,
+    "passed": true
+  },
+  {
+    "id": 978,
+    "age": 27,
+    "study_hours": 4.5,
+    "attendance": 70,
+    "sleep_hours": 5.7,
+    "previous_grade": 3.21,
+    "passed": false
+  },
+  {
+    "id": 979,
+    "age": null,
+    "study_hours": null,
+    "attendance": 68,
+    "sleep_hours": 4.4,
+    "previous_grade": 3.84,
+    "passed": true
+  },
+  {
+    "id": 980,
+    "age": 21,
+    "study_hours": 1.8,
+    "attendance": 30,
+    "sleep_hours": 8.8,
+    "previous_grade": 4.64,
+    "passed": false
+  },
+  {
+    "id": 981,
+    "age": 24,
+    "study_hours": 7.2,
+    "attendance": 70,
+    "sleep_hours": 6.4,
+    "previous_grade": 5.54,
+    "passed": true
+  },
+  {
+    "id": 982,
+    "age": null,
+    "study_hours": null,
+    "attendance": 49,
+    "sleep_hours": 4.1,
+    "previous_grade": 5.99,
+    "passed": false
+  },
+  {
+    "id": 983,
+    "age": 24,
+    "study_hours": 1.0,
+    "attendance": 94,
+    "sleep_hours": 7.2,
+    "previous_grade": 4.0,
+    "passed": true
+  },
+  {
+    "id": 984,
+    "age": 25,
+    "study_hours": 7.7,
+    "attendance": 27,
+    "sleep_hours": 4.2,
+    "previous_grade": 2.22,
+    "passed": true
+  },
+  {
+    "id": 985,
+    "age": null,
+    "study_hours": null,
+    "attendance": 52,
+    "sleep_hours": 8.0,
+    "previous_grade": 4.67,
+    "passed": false
+  },
+  {
+    "id": 986,
+    "age": 26,
+    "study_hours": 1.6,
+    "attendance": 99,
+    "sleep_hours": 5.2,
+    "previous_grade": 2.29,
+    "passed": true
+  },
+  {
+    "id": 987,
+    "age": null,
+    "study_hours": null,
+    "attendance": 85,
+    "sleep_hours": 8.5,
+    "previous_grade": 4.47,
+    "passed": true
+  },
+  {
+    "id": 988,
+    "age": 20,
+    "study_hours": 0.6,
+    "attendance": 31,
+    "sleep_hours": 8.5,
+    "previous_grade": 5.28,
+    "passed": false
+  },
+  {
+    "id": 989,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 4.3,
+    "previous_grade": 5.27,
+    "passed": false
+  },
+  {
+    "id": 990,
+    "age": null,
+    "study_hours": null,
+    "attendance": 53,
+    "sleep_hours": 4.3,
+    "previous_grade": 2.81,
+    "passed": false
+  },
+  {
+    "id": 991,
+    "age": 24,
+    "study_hours": 2.9,
+    "attendance": 98,
+    "sleep_hours": 6.7,
+    "previous_grade": 3.29,
+    "passed": true
+  },
+  {
+    "id": 992,
+    "age": null,
+    "study_hours": null,
+    "attendance": 100,
+    "sleep_hours": 4.9,
+    "previous_grade": 2.25,
+    "passed": true
+  },
+  {
+    "id": 993,
+    "age": 24,
+    "study_hours": 1.8,
+    "attendance": 72,
+    "sleep_hours": 6.8,
+    "previous_grade": 3.75,
+    "passed": true
+  },
+  {
+    "id": 994,
+    "age": null,
+    "study_hours": null,
+    "attendance": 73,
+    "sleep_hours": 7.9,
+    "previous_grade": 2.06,
+    "passed": false
+  },
+  {
+    "id": 995,
+    "age": 18,
+    "study_hours": 0.6,
+    "attendance": 36,
+    "sleep_hours": 7.5,
+    "previous_grade": 4.37,
+    "passed": false
+  },
+  {
+    "id": 996,
+    "age": 25,
+    "study_hours": 5.7,
+    "attendance": 51,
+    "sleep_hours": 4.7,
+    "previous_grade": 3.08,
+    "passed": false
+  },
+  {
+    "id": 997,
+    "age": 21,
+    "study_hours": 7.5,
+    "attendance": 29,
+    "sleep_hours": 7.0,
+    "previous_grade": 4.87,
+    "passed": true
+  },
+  {
+    "id": 998,
+    "age": 19,
+    "study_hours": 5.2,
+    "attendance": 63,
+    "sleep_hours": 5.7,
+    "previous_grade": 2.02,
+    "passed": false
+  },
+  {
+    "id": 999,
+    "age": 19,
+    "study_hours": 7.9,
+    "attendance": 37,
+    "sleep_hours": 7.1,
+    "previous_grade": 5.45,
+    "passed": true
+  },
+  {
+    "id": 1000,
+    "age": null,
+    "study_hours": null,
+    "attendance": 51,
+    "sleep_hours": 5.4,
+    "previous_grade": 2.77,
+    "passed": false
+  }
+]
